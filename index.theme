@@ -1,0 +1,25 @@
+[Icon Theme]
+Name=Shadow
+Comment=Linux icons with Long Shadow
+
+Inherits=Adwaita
+
+Example=directory-x-normal
+
+# Directory list
+Directories=scalable/places,scalable/mimetypes
+
+[scalable/mimetypes]
+Size=16
+MinSize=16
+MaxSize=256
+Context=MimeTypes
+Type=Scalable
+
+[scalable/places]
+Size=16
+MinSize=16
+MaxSize=256
+Context=Places
+Type=Scalable
+
