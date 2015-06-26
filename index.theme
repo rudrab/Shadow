@@ -2,12 +2,12 @@
 Name=Shadow
 Comment=Linux icons with Long Shadow
 
-Inherits=Adwaita
+Inherits=Adwaita,Numix-Circle
 
 Example=directory-x-normal
 
 # Directory list
-Directories=scalable/actions,scalable/places,scalable/mimetypes,scalable/status,16x16/actions,16x16/places,16x16/mimetypes,16x16/status,128x128/actions,128x128/places,128x128/mimetypes,128x128/status,22x22/actions,22x22/places,22x22/mimetypes,22x22/status,24x24/actions,24x24/places,24x24/mimetypes,24x24/status,256x256/actions,256x256/places,256x256/mimetypes,256x256/status,32x32/actions,32x32/places,32x32/mimetypes,32x32/status,48x48/actions,48x48/places,48x48/mimetypes,48x48/status,64x64/actions,64x64/places,64x64/mimetypes,64x64/status,96x96/actions,96x96/places,96x96/mimetypes,96x96/status
+Directories=scalable/actions,scalable/places,scalable/mimetypes,scalable/status,16x16/actions,16x16/places,16x16/mimetypes,16x16/status,128x128/actions,128x128/places,128x128/mimetypes,128x128/status,22x22/actions,22x22/places,22x22/mimetypes,22x22/status,24x24/actions,24x24/places,24x24/mimetypes,24x24/status,256x256/actions,256x256/places,256x256/mimetypes,256x256/status,32x32/actions,32x32/places,32x32/mimetypes,32x32/status,48x48/actions,48x48/places,48x48/mimetypes,48x48/status,64x64/actions,64x64/places,64x64/mimetypes,64x64/status,96x96/actions,96x96/places,96x96/mimetypes,96x96/status,scalable/apps,48x48/apps
 
 [scalable/actions]
 Size=16
@@ -37,6 +37,12 @@ MaxSize=256
 Context=Status
 Type=Scalable
 
+[scalable/apps]
+Size=16
+MinSize=16
+MaxSize=256
+Context=Applications
+Type=Scalable
 
 [16x16/actions]
 Size=16
@@ -174,9 +180,15 @@ Size=48
 Context=MimeTypes
 Type=Fixed
 
+
 [48x48/places]
 Size=48
 Context=Places
+Type=Fixed
+
+[48x48/apps]
+Size=48
+Context=Applications
 Type=Fixed
 
 [48x48/status]
