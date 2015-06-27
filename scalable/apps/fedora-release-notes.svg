@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg4149"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fedora-release-notes.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0507812"
+     inkscape:cx="45.592379"
+     inkscape:cy="127.02476"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4151">
+    <clipPath
+       id="clipPath4863"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="77.263145"
+         cy="924.36218"
+         cx="128"
+         id="circle4865"
+         style="fill:#e9e9e9;fill-opacity:1;stroke:none;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4227">
+      <circle
+         r="77.263145"
+         cy="924.36218"
+         cx="128"
+         id="circle4229"
+         style="fill:#e9e9e9;fill-opacity:1;stroke:none;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <filter
+       id="filter4301"
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood4303"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.498039" />
+      <feComposite
+         id="feComposite4305"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur4307"
+         result="blur"
+         stdDeviation="3.7"
+         in="composite1" />
+      <feOffset
+         id="feOffset4309"
+         result="offset"
+         dy="3.7"
+         dx="3.8" />
+      <feComposite
+         id="feComposite4311"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata4154">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36216)">
+    <circle
+       style="fill:#e9e9e9;fill-opacity:1;stroke:none;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4723"
+       cx="128"
+       cy="924.36218"
+       r="128" />
+    <g
+       transform="matrix(2.2169031,0,0,2.2169031,330.99922,863.8445)"
+       id="g4217">
+      <path
+         d="m -79.847306,0.232649 c -8.474771,0 -15.344197,6.869874 -15.344197,15.34436 0,0.0029 0,0.0067 0,0.01062 l 0,8.121275 -8.096177,0 c -0.001,0 -0.001,0 -0.002,0 -8.47451,0 -15.34393,6.836444 -15.34393,15.310411 0,8.475266 6.86968,15.344878 15.34393,15.344878 8.473479,0 15.343163,-6.869612 15.343163,-15.344878 0,-0.0032 0,-0.0059 0,-0.01062 l 0,-8.154962 8.095914,0 c 0.0018,0 0.0026,0 0.0034,0 8.473474,0 15.343159,-6.802757 15.343159,-15.276723 0,-8.474486 -6.869685,-15.344361 -15.343159,-15.344361 z m -15.344197,38.801183 c -0.0064,4.465288 -3.630489,8.085251 -8.098247,8.085251 -4.47242,0 -8.13167,-3.625923 -8.13167,-8.098467 0,-4.4741 3.65925,-8.167142 8.13167,-8.167142 0.004,0 0.007,0 0.0106,0 l 6.939396,0 c 0.0023,0 0.0036,0 0.0052,0 0.631773,0 1.144085,0.511288 1.144085,1.142041 0,0.0012 -7.78e-4,0.0012 -7.78e-4,0.0029 l 0,7.035466 -2.58e-4,0 z m 15.343419,-15.324924 c -0.0026,0 -0.0052,0 -0.0076,0 l -6.944055,0 c -0.0015,0 -0.0034,0 -0.0041,0 -0.631773,0 -1.142789,-0.51103 -1.142789,-1.143338 l 0,-2.59e-4 0,-7.001518 c 0.0076,-4.46788 3.63049,-8.086549 8.098507,-8.086549 4.47242,0 8.13245,3.626184 8.13245,8.099506 0,4.472803 -3.66003,8.132158 -8.13245,8.132158 z"
+         inkscape:connector-curvature="0"
+         id="f-script-path"
+         style="display:inline;fill:#5484c6;fill-opacity:1" />
+      <path
+         d="m -95.191503,23.708908 0,-8.121532 c 0,-0.0036 0,-0.0076 0,-0.01063 0,-8.474485 6.869426,-15.344359 15.344197,-15.344359 1.285571,0 2.199023,0.144861 3.388975,0.456349 1.735431,0.455056 3.152643,1.876713 3.153421,3.531598 7.74e-4,2.000581 -1.451418,3.454892 -3.621679,3.454892 -1.033951,0 -1.407625,-0.197986 -2.921495,-0.197986 -4.468015,0 -8.090991,3.61867 -8.098505,8.086549 l 0,7.001259 0,2.6e-4 c 0,0.632308 0.511015,1.143336 1.142789,1.143336 7.74e-4,0 0.0026,0 0.0041,0 l 5.31798,0 c 1.98187,0 3.582291,1.586732 3.583846,3.573838 0,1.987885 -1.602754,3.570988 -3.583846,3.570988 l -6.464914,0 0,8.154963 c 0,0.0046 0,0.0076 0,0.01218 0,8.473703 -6.869685,15.343321 -15.343156,15.343321 -1.28583,0 -2.19929,-0.144864 -3.38924,-0.456609 -1.73543,-0.454797 -3.15316,-1.877233 -3.15394,-3.531601 0,-2.000061 1.45116,-3.454889 3.62246,-3.454889 1.03291,0 1.40762,0.198242 2.92072,0.198242 4.468013,0 8.092024,-3.618925 8.099021,-8.08525 0,0 0,-7.036761 0,-7.038056 0,-0.631013 -0.512311,-1.142042 -1.144084,-1.142042 -7.75e-4,0 -0.0015,0 -0.0029,0 l -5.317717,0 c -1.98239,0 -3.58411,-1.581548 -3.58411,-3.569951 -5.2e-4,-1.999545 1.6183,-3.574615 3.62168,-3.574615 l 6.426303,0 0,-2.59e-4 z"
+         inkscape:connector-curvature="0"
+         id="blue-inifity-connectors"
+         style="display:inline;fill:#ffffff" />
+    </g>
+  </g>
+</svg>
