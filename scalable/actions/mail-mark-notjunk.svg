@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="mail-replied.svg">
+   sodipodi:docname="mail-mark-not-junk.svg">
   <defs
      id="defs4">
     <clipPath
@@ -59,10 +59,6 @@
          stdDeviation="6.9775638"
          id="feGaussianBlur4922" />
     </filter>
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4208"
-       effect="spiro" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -72,8 +68,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="171.39809"
-     inkscape:cy="128"
+     inkscape:cx="88.990469"
+     inkscape:cy="127.02476"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -107,36 +103,16 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
-       style="opacity:1;fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:52.82038116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#0f9d58;fill-opacity:1;stroke:none;stroke-width:52.82038116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 128 0 A 128 128 0 0 0 40.347656 34.837891 L 127.33594 122.35156 L 218.0293 37.091797 A 128 128 0 0 0 128 0 z M 23.730469 53.921875 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 234.1582 56.568359 L 138.21484 146.76758 C 137.7341 147.21953 137.22002 147.61023 136.69336 147.97266 C 136.43985 148.27644 136.17511 148.57466 135.88867 148.85938 C 130.93004 153.78814 122.96979 153.76332 118.04102 148.80469 L 23.730469 53.921875 z "
        transform="translate(0,796.36216)"
        id="path4135" />
     <path
        transform="translate(0.16190221,0.0476238)"
-       style="fill:#0592ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4920)"
+       style="fill:#095d34;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4920)"
        d="m -25,1027.3622 150,-100.00004 150,100.00004 -105,25 -98.807617,4.3885 z"
        id="path4143"
        inkscape:connector-curvature="0"
        clip-path="url(#clipPath4147)" />
-    <g
-       id="g4228"
-       transform="matrix(1.4169762,0,0,1.4169762,-50.039893,-355.55953)">
-      <rect
-         transform="matrix(0,-1,-1,0,0,0)"
-         style="fill:#f77408;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4216"
-         width="33.258682"
-         height="94.232941"
-         x="-939.39093"
-         y="-180.14476"
-         ry="9.8677626" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 124.17311,961.56339 -38.8018,-38.8018 38.8018,-38.8018"
-         inkscape:path-effect="#path-effect4208"
-         id="path4218"
-         d="m 124.17311,961.56339 -38.8018,-38.8018 38.8018,-38.8018"
-         style="fill:none;fill-rule:evenodd;stroke:#f77408;stroke-width:22.17245674;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
   </g>
 </svg>

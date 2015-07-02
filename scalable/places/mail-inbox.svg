@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="mail-replied.svg">
+   sodipodi:docname="mail-inbox.svg">
   <defs
      id="defs4">
     <clipPath
@@ -72,8 +72,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="171.39809"
-     inkscape:cy="128"
+     inkscape:cx="88.990469"
+     inkscape:cy="127.02476"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -118,25 +118,20 @@
        id="path4143"
        inkscape:connector-curvature="0"
        clip-path="url(#clipPath4147)" />
-    <g
-       id="g4228"
-       transform="matrix(1.4169762,0,0,1.4169762,-50.039893,-355.55953)">
-      <rect
-         transform="matrix(0,-1,-1,0,0,0)"
-         style="fill:#f77408;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4216"
-         width="33.258682"
-         height="94.232941"
-         x="-939.39093"
-         y="-180.14476"
-         ry="9.8677626" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 124.17311,961.56339 -38.8018,-38.8018 38.8018,-38.8018"
-         inkscape:path-effect="#path-effect4208"
-         id="path4218"
-         d="m 124.17311,961.56339 -38.8018,-38.8018 38.8018,-38.8018"
-         style="fill:none;fill-rule:evenodd;stroke:#f77408;stroke-width:22.17245674;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <rect
+       ry="13.982385"
+       y="849.36218"
+       x="104.43661"
+       height="133.52583"
+       width="47.126762"
+       id="rect4216"
+       style="fill:#f7f508;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f7f508;stroke-width:31.41784286;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 73.018762,928.67266 54.981228,54.98123 54.98123,-54.98123"
+       id="path4218"
+       inkscape:path-effect="#path-effect4208"
+       inkscape:original-d="m 73.018762,928.67266 54.981228,54.98123 54.98123,-54.98123"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
