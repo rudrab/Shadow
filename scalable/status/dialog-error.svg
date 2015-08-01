@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="128"
-     inkscape:cy="128"
+     inkscape:cx="45.592379"
+     inkscape:cy="127.02476"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,14 +38,36 @@
   <defs
      id="defs4">
     <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4174">
+       id="clipPath4174"
+       clipPathUnits="userSpaceOnUse">
       <circle
-         style="fill:#cc2828;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4176"
-         cx="128"
+         r="128"
          cy="924.36218"
-         r="128" />
+         cx="128"
+         id="circle4176"
+         style="fill:#cc2828;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath4714"
+       clipPathUnits="userSpaceOnUse">
+      <ellipse
+         ry="116.72266"
+         rx="87.920212"
+         style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4716"
+         cx="127.99999"
+         cy="924.36218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4251">
+      <ellipse
+         cy="924.36218"
+         cx="127.99999"
+         id="circle4253"
+         style="fill:#cc2828;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         rx="87.920212"
+         ry="116.72266" />
     </clipPath>
   </defs>
   <metadata
@@ -56,53 +78,91 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-796.36216)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(0,-796.36216)">
     <circle
-       r="128"
-       cy="924.36218"
-       cx="128"
+       style="fill:#cc2828;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4136"
-       style="fill:#cc2828;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="128"
+       cy="924.36218"
+       r="128" />
     <g
-       id="g4150"
-       clip-path="url(#clipPath4174)"
-       style="fill:#7a1818;fill-opacity:1">
+       style="fill:#761717;fill-opacity:1"
+       transform="matrix(1.4558655,0,0,1.0966166,-58.350777,-89.308751)"
+       id="g4640"
+       clip-path="url(#clipPath4251)">
       <g
-         id="g4152"
-         style="fill:#7a1818;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+         id="g4200"
+         style="fill:#761717;fill-opacity:1">
+        <g
+           id="g4202"
+           style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#761717;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+          <path
+             id="path4204"
+             d="M117.73815 967.89213L138.26185 967.89213L-215.291540593 1321.44552059L-235.815240593 1321.44552059Z"
+             style="fill:#761717;fill-opacity:1" />
+          <path
+             id="path4206"
+             d="M138.26185 967.89213L138.26185 989.97253L-215.291540593 1343.52592059L-215.291540593 1321.44552059Z"
+             style="fill:#761717;fill-opacity:1" />
+          <path
+             id="path4208"
+             d="M138.26185 989.97253L117.73815 989.97253L-235.815240593 1343.52592059L-215.291540593 1343.52592059Z"
+             style="fill:#761717;fill-opacity:1" />
+        </g>
         <path
-           id="path4154"
-           d="M40.47238 907.53931L215.52762 907.53931L-138.025770593 1261.09270059L-313.081010593 1261.09270059Z"
-           style="fill:#7a1818;fill-opacity:1" />
-        <path
-           id="path4156"
-           d="M215.52762 907.53931L215.52762 941.18502L-138.025770593 1294.73841059L-138.025770593 1261.09270059Z"
-           style="fill:#7a1818;fill-opacity:1" />
-        <path
-           id="path4158"
-           d="M215.52762 941.18502L40.47238 941.18502L-313.081010593 1294.73841059L-138.025770593 1294.73841059Z"
-           style="fill:#7a1818;fill-opacity:1" />
+           style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#761717;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           id="path4642"
+           d="m 117.73815,967.89213 20.5237,0 0,22.0804 -20.5237,0 z" />
       </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4138"
-         d="m 40.47238,907.53931 175.05524,0 0,33.64571 -175.05524,0 z"
-         style="fill:#7a1818;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g4211"
+         style="fill:#761717;fill-opacity:1">
+        <g
+           id="g4213"
+           style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#761717;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+          <path
+             id="path4215"
+             d="M111.03338 858.75183L144.96661 858.75183L-208.586780593 1212.30522059L-242.520010593 1212.30522059Z"
+             style="fill:#761717;fill-opacity:1" />
+          <path
+             id="path4217"
+             d="M144.96661 858.75183L138.33261 947.69714L-215.220780593 1301.25053059L-208.586780593 1212.30522059Z"
+             style="fill:#761717;fill-opacity:1" />
+          <path
+             id="path4219"
+             d="M138.33261 947.69714L118.73051 947.69714L-234.822880593 1301.25053059L-215.220780593 1301.25053059Z"
+             style="fill:#761717;fill-opacity:1" />
+        </g>
+        <path
+           style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#761717;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           id="path4644"
+           d="m 111.03338,858.75183 33.93323,0 -6.634,88.94531 -19.6021,0 z" />
+      </g>
     </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4140"
-       width="175.05524"
-       height="33.645714"
-       x="40.472382"
-       y="907.53931" />
+    <g
+       id="g4183"
+       transform="matrix(1.4558655,0,0,1.0966166,-58.350777,-89.308751)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         d="m 117.73815,967.89213 20.5237,0 0,22.0804 -20.5237,0 z"
+         id="path4185"
+         inkscape:connector-curvature="0"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 111.03338,858.75183 33.93323,0 -6.634,88.94531 -19.6021,0 z"
+         id="path4187"
+         inkscape:connector-curvature="0"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
