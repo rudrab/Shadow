@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="liferea.svg">
+   sodipodi:docname="akregator.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="190.22021"
+     inkscape:cx="-28.247482"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -360,5 +360,37 @@
        id="path4300"
        inkscape:connector-curvature="0"
        d="m 67,837.36216 0,30 a 120,120 0 0 1 120,120 l 30,0 a 150,150 0 0 0 -150,-150 z m 0,50.57142 0,29.14287 a 70.285713,70.285713 0 0 1 70.28571,70.28571 l 29.14287,0 A 99.428571,99.428571 0 0 0 67,887.93358 Z m 20.57142,58.28571 C 76.21014,946.21929 67,955.42946 67,966.79074 c 0,11.36128 9.21014,20.57142 20.57142,20.57142 11.36128,0 20.57145,-9.21014 20.57145,-20.57142 0,-11.36128 -9.21017,-20.57145 -20.57145,-20.57145 z" />
+    <circle
+       style="fill:#c61d1d;fill-opacity:1;stroke:none;stroke-width:30;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4196"
+       r="15"
+       cy="945.15643"
+       cx="-139.64383" />
+    <path
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:open="true"
+       d="m -895.94461,-154.64383 a 64.211823,64.211823 0 0 1 -64.21182,64.211823"
+       sodipodi:end="1.5707963"
+       sodipodi:start="0"
+       sodipodi:ry="64.211823"
+       sodipodi:rx="64.211823"
+       sodipodi:cy="-154.64383"
+       sodipodi:cx="-960.15643"
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#c61d1d;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4202" />
+    <path
+       id="path4204"
+       style="fill:none;fill-opacity:1;stroke:#c61d1d;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       sodipodi:cx="-960.15643"
+       sodipodi:cy="-154.64383"
+       sodipodi:rx="101.6117"
+       sodipodi:ry="101.6117"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       d="m -858.54473,-154.64383 a 101.6117,101.6117 0 0 1 -101.6117,101.611703"
+       sodipodi:open="true"
+       transform="matrix(0,-1,1,0,0,0)" />
   </g>
 </svg>
