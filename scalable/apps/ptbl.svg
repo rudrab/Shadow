@@ -24,16 +24,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4882812"
-     inkscape:cx="128"
+     inkscape:cx="60.081631"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="826"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        spacingy="5"
@@ -116,57 +116,53 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <g
-       transform="translate(0,-2.2617187e-5)"
-       id="g4159">
-      <path
-         style="opacity:0.46200005;fill:#70ffc4;fill-opacity:1;stroke:none"
-         id="path4141"
-         sodipodi:type="arc"
-         sodipodi:cx="128"
-         sodipodi:cy="924.36218"
-         sodipodi:rx="128"
-         sodipodi:ry="128"
-         sodipodi:start="0"
-         sodipodi:end="1.5707963"
-         d="M 256,924.36218 A 128,128 0 0 1 128,1052.3622 l 0,-128.00002 z" />
-      <path
-         d="m 0,924.36218 a 128,128 0 0 1 -128,128.00002 l 0,-128.00002 z"
-         sodipodi:end="1.5707963"
-         sodipodi:start="0"
-         sodipodi:ry="128"
-         sodipodi:rx="128"
-         sodipodi:cy="924.36218"
-         sodipodi:cx="-128"
-         sodipodi:type="arc"
-         id="path4145"
-         style="opacity:0.46200005;fill:#70b6ff;fill-opacity:1;stroke:none"
-         transform="scale(-1,1)" />
-      <path
-         d="m 256,-924.36218 a 128,128 0 0 1 -128,128 l 0,-128 z"
-         sodipodi:end="1.5707963"
-         sodipodi:start="0"
-         sodipodi:ry="128"
-         sodipodi:rx="128"
-         sodipodi:cy="-924.36218"
-         sodipodi:cx="128"
-         sodipodi:type="arc"
-         id="path4147"
-         style="opacity:1;fill:#ff7070;fill-opacity:1;stroke:none"
-         transform="scale(1,-1)" />
-      <path
-         transform="scale(-1,-1)"
-         style="opacity:0.46200005;fill:#ff7070;fill-opacity:1;stroke:none"
-         id="path4149"
-         sodipodi:type="arc"
-         sodipodi:cx="-128"
-         sodipodi:cy="-924.36218"
-         sodipodi:rx="128"
-         sodipodi:ry="128"
-         sodipodi:start="0"
-         sodipodi:end="1.5707963"
-         d="m 0,-924.36218 a 128,128 0 0 1 -128,128 l 0,-128 z" />
-    </g>
+    <path
+       d="M 256,924.36218 A 128,128 0 0 1 128,1052.3622 l 0,-128.00002 z"
+       sodipodi:end="1.5707963"
+       sodipodi:start="0"
+       sodipodi:ry="128"
+       sodipodi:rx="128"
+       sodipodi:cy="924.36218"
+       sodipodi:cx="128"
+       sodipodi:type="arc"
+       id="path4141"
+       style="opacity:1;fill:#70ffc4;fill-opacity:1;stroke:none" />
+    <path
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#70b6ff;fill-opacity:1;stroke:none"
+       id="path4145"
+       sodipodi:type="arc"
+       sodipodi:cx="-128"
+       sodipodi:cy="924.36218"
+       sodipodi:rx="128"
+       sodipodi:ry="128"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       d="m 0,924.36218 a 128,128 0 0 1 -128,128.00002 l 0,-128.00002 z" />
+    <path
+       transform="scale(1,-1)"
+       style="opacity:1;fill:#ff7070;fill-opacity:1;stroke:none"
+       id="path4147"
+       sodipodi:type="arc"
+       sodipodi:cx="128"
+       sodipodi:cy="-924.36218"
+       sodipodi:rx="128"
+       sodipodi:ry="128"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       d="m 256,-924.36218 a 128,128 0 0 1 -128,128 l 0,-128 z" />
+    <path
+       d="m 0,-924.36218 a 128,128 0 0 1 -128,128 l 0,-128 z"
+       sodipodi:end="1.5707963"
+       sodipodi:start="0"
+       sodipodi:ry="128"
+       sodipodi:rx="128"
+       sodipodi:cy="-924.36218"
+       sodipodi:cx="-128"
+       sodipodi:type="arc"
+       id="path4149"
+       style="opacity:1;fill:#ff7070;fill-opacity:1;stroke:none"
+       transform="scale(-1,-1)" />
     <g
        id="text4155"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:122.818573px;line-height:125%;font-family:English;-inkscape-font-specification:'English Medium';letter-spacing:0px;word-spacing:0px;fill:#3e0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
