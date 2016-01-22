@@ -23,18 +23,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0507812"
-     inkscape:cx="128"
+     inkscape:zoom="3.2851562"
+     inkscape:cx="76.55648"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="grid4628"
+       type="xygrid" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <clipPath
@@ -48,24 +52,33 @@
          style="fill:#cc2828;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
     <clipPath
-       id="clipPath4714"
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4297">
+      <circle
+         r="88.941673"
+         cy="917.04779"
+         cx="128"
+         id="circle4299"
+         style="fill:#00baff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath4598"
        clipPathUnits="userSpaceOnUse">
-      <ellipse
-         ry="116.72266"
-         rx="87.920212"
-         style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4716"
-         cx="127.99999"
-         cy="924.36218" />
+      <circle
+         r="128"
+         cy="924.36218"
+         cx="132.61426"
+         id="circle4600"
+         style="fill:#00baff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4251">
+       id="clipPath4714">
       <ellipse
          cy="924.36218"
          cx="127.99999"
-         id="circle4253"
-         style="fill:#cc2828;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4716"
+         style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="87.920212"
          ry="116.72266" />
     </clipPath>
