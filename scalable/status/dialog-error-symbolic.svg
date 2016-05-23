@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2851562"
-     inkscape:cx="76.55648"
+     inkscape:zoom="3.3632812"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1054"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -100,26 +100,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36216)">
-    <circle
+    <path
        style="fill:#cc2828;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 93.667969 28 L 162.33203 28 L 148.9082 163.56641 L 109.24414 163.56641 L 93.667969 28 z M 107.23633 194.3457 L 148.76367 194.3457 L 148.76367 228 L 107.23633 228 L 107.23633 194.3457 z "
        id="path4136"
-       cx="128"
-       cy="924.36218"
-       r="128" />
-    <g
-       id="g4183"
-       transform="matrix(2.0234574,0,0,1.5241498,-131.00254,-484.50427)"
-       style="fill:#ffffff;fill-opacity:1">
-      <path
-         d="m 117.73815,967.89213 20.5237,0 0,22.0804 -20.5237,0 z"
-         id="path4185"
-         inkscape:connector-curvature="0"
-         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         d="m 111.03338,858.75183 33.93323,0 -6.634,88.94531 -19.6021,0 z"
-         id="path4187"
-         inkscape:connector-curvature="0"
-         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+       transform="translate(0,796.36216)" />
   </g>
 </svg>

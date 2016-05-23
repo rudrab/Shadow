@@ -20,15 +20,15 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="721"
-     inkscape:window-width="1366"
+     inkscape:window-height="1054"
+     inkscape:window-width="1920"
      units="px"
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="127.02476"
-     inkscape:cx="45.592379"
-     inkscape:zoom="2.0507812"
+     inkscape:cy="128"
+     inkscape:cx="13.33813"
+     inkscape:zoom="3.3632812"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -157,28 +157,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36216)">
-    <circle
+    <path
        style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4136"
-       cx="128"
-       cy="924.36218"
-       r="128" />
-    <g
-       id="g4845">
-      <path
-         inkscape:path-effect="#path-effect4153"
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 59.664889,924.36214 150.000001,0"
-         id="path4151"
-         d="m 59.664889,924.36214 150.000001,0"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:path-effect="#path-effect4829"
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 109.66489,849.36214 -60.000001,75 60.000001,75.00004"
-         id="path4827"
-         d="m 109.66489,849.36214 -60.000001,75 60.000001,75.00004"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 113.83594 44.421875 C 118.48734 44.636864 123.05567 46.634403 126.45508 50.363281 L 127.85742 51.902344 C 134.65624 59.3601 134.12572 70.835952 126.66797 77.634766 L 92.933594 108.39062 L 210.20898 108.39062 C 221.28898 108.39062 230.20898 117.31062 230.20898 128.39062 C 230.20898 139.47063 221.28898 148.39062 210.20898 148.39062 L 92.34375 148.39062 L 120.87891 179.68945 C 127.67772 187.14721 127.14721 198.62501 119.68945 205.42383 L 118.15039 206.82617 C 110.69263 213.62499 99.21483 213.09447 92.416016 205.63672 L 30.560547 137.78516 C 23.761733 130.3274 24.292244 118.85155 31.75 112.05273 L 32.851562 111.04883 C 32.858435 111.04254 32.864209 111.03557 32.871094 111.0293 L 100.72266 49.173828 C 104.45153 45.774421 109.18454 44.206886 113.83594 44.421875 z "
+       transform="translate(0,796.36216)"
+       id="path4136" />
   </g>
 </svg>

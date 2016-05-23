@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0507812"
+     inkscape:zoom="3.3632812"
      inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -218,47 +218,10 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <circle
+    <path
        style="fill:#757575;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4178"
-       cx="128"
-       cy="924.36218"
-       r="128" />
-    <g
-       id="g4197"
-       transform="translate(-4.5,9.4999774)">
-      <rect
-         ry="14.999977"
-         y="932.36218"
-         x="150"
-         height="55"
-         width="55"
-         id="rect4181"
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4183"
-         width="55"
-         height="55"
-         x="60"
-         y="932.36218"
-         ry="14.999977" />
-      <rect
-         ry="14.999977"
-         y="842.36218"
-         x="150"
-         height="55"
-         width="55"
-         id="rect4185"
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4187"
-         width="55"
-         height="55"
-         x="60"
-         y="842.36218"
-         ry="14.999977" />
-    </g>
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 70.5 55.5 L 95.5 55.5 C 103.80999 55.5 110.5 62.190013 110.5 70.5 L 110.5 95.5 C 110.5 103.80999 103.80999 110.5 95.5 110.5 L 70.5 110.5 C 62.190013 110.5 55.5 103.80999 55.5 95.5 L 55.5 70.5 C 55.5 62.190013 62.190013 55.5 70.5 55.5 z M 160.5 55.5 L 185.5 55.5 C 193.80999 55.5 200.5 62.190013 200.5 70.5 L 200.5 95.5 C 200.5 103.80999 193.80999 110.5 185.5 110.5 L 160.5 110.5 C 152.19001 110.5 145.5 103.80999 145.5 95.5 L 145.5 70.5 C 145.5 62.190013 152.19001 55.5 160.5 55.5 z M 70.5 145.5 L 95.5 145.5 C 103.80999 145.5 110.5 152.19001 110.5 160.5 L 110.5 185.5 C 110.5 193.80999 103.80999 200.5 95.5 200.5 L 70.5 200.5 C 62.190013 200.5 55.5 193.80999 55.5 185.5 L 55.5 160.5 C 55.5 152.19001 62.190013 145.5 70.5 145.5 z M 160.5 145.5 L 185.5 145.5 C 193.80999 145.5 200.5 152.19001 200.5 160.5 L 200.5 185.5 C 200.5 193.80999 193.80999 200.5 185.5 200.5 L 160.5 200.5 C 152.19001 200.5 145.5 193.80999 145.5 185.5 L 145.5 160.5 C 145.5 152.19001 152.19001 145.5 160.5 145.5 z "
+       transform="translate(0,796.36216)"
+       id="path4178" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="weather-clear-night.svg">
+   sodipodi:docname="weather-clear-night-symbolic.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,16 +24,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.1679688"
-     inkscape:cx="128"
+     inkscape:cx="75.127005"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1054"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -109,16 +109,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36216)">
-    <circle
-       style="fill:#5b93b4;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4145"
-       cx="128"
-       cy="924.36218"
-       r="128" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 101.74471,828.10684 a 96.255286,96.255286 0 0 0 -5.51759,0.19356 96.255286,96.255286 0 0 1 52.51057,85.63392 96.255286,96.255286 0 0 1 -90.737691,96.05948 96.255286,96.255286 0 0 0 43.744711,10.6237 A 96.255286,96.255286 0 0 0 198,924.36213 96.255286,96.255286 0 0 0 101.74471,828.10684 Z"
-       id="path4155"
-       inkscape:connector-curvature="0" />
+       style="fill:#5b93b4;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 101.74414 31.744141 A 96.255286 96.255286 0 0 1 198 128 A 96.255286 96.255286 0 0 1 101.74414 224.25586 A 96.255286 96.255286 0 0 1 58 213.63086 A 96.255286 96.255286 0 0 0 148.73828 117.57227 A 96.255286 96.255286 0 0 0 96.226562 31.9375 A 96.255286 96.255286 0 0 1 101.74414 31.744141 z "
+       id="path4145"
+       transform="translate(0,796.36216)" />
   </g>
 </svg>

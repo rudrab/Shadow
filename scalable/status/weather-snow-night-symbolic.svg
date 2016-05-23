@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2851562"
-     inkscape:cx="61.336501"
+     inkscape:zoom="3.3632812"
+     inkscape:cx="72.696863"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1054"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -123,79 +123,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36216)">
-    <circle
+    <path
        style="fill:#5b93b4;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4145"
-       cx="128"
-       cy="924.36218"
-       r="128" />
-    <g
-       id="g4490"
-       style="stroke:#ffffff;stroke-opacity:1"
-       transform="matrix(1.2190036,0,0,1.2190036,-24.761935,-206.09568)">
-      <g
-         transform="matrix(0.5,-0.8660254,0.8660254,0.5,-740.88722,572.20227)"
-         id="g4464"
-         style="stroke:#ffffff;stroke-opacity:1">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4466"
-           d="m 125,852.36216 c 0,150.00004 0,150.00004 0,150.00004"
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4468"
-           d="m 100,997.36216 25,-25 25,25"
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 100,858.82663 25,25 25,-25"
-           id="path4470"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         style="stroke:#ffffff;stroke-opacity:1"
-         id="g4480">
-        <g
-           style="stroke:#ffffff;stroke-opacity:1"
-           id="g4459">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4155"
-             d="m 125,852.36216 c 0,150.00004 0,150.00004 0,150.00004"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path4455"
-             d="m 100,997.36216 25,-25 25,25"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 100,858.82663 25,25 25,-25"
-             id="path4457"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           style="stroke:#ffffff;stroke-opacity:1"
-           transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,-615.98532,1499.9306)"
-           id="g4472">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4474"
-             d="m 125,852.36216 c 0,150.00004 0,150.00004 0,150.00004"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path4476"
-             d="m 100,997.36216 25,-25 25,25"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 100,858.82663 25,25 25,-25"
-             id="path4478"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 120.91211 35.5 L 133.77734 35.5 L 133.77734 61.841797 L 154.38867 41.320312 L 162.35742 49.300781 L 134.31641 77.216797 L 133.77734 76.677734 L 133.77734 119.75195 L 171.08789 98.210938 L 181.20898 60.099609 L 192.10156 63.009766 L 184.86719 90.255859 L 204.23633 79.072266 L 210.66797 90.212891 L 192.25 100.84766 L 217.91211 107.66211 L 215.00195 118.55469 L 178.4082 108.83789 L 141.94141 129.89258 L 178.46484 150.98047 L 215.24023 141.21289 L 218.15039 152.10742 L 192.30469 158.9707 L 210.66797 169.57227 L 204.23633 180.71289 L 185.1543 169.69531 L 192.3418 196.75781 L 181.44727 199.66797 L 171.375 161.74023 L 133.77734 140.0332 L 133.77734 182.55078 L 161.76172 210.41211 L 153.79492 218.39062 L 133.77734 198.46289 L 133.77734 220.5 L 120.91211 220.5 L 120.91211 199.12695 L 101.38086 218.74414 L 93.402344 210.77734 L 120.91211 183.14453 L 120.91211 142.0332 L 84.068359 163.30469 L 74.552734 199.13086 L 63.658203 196.2207 L 70.287109 171.26172 L 50.453125 182.71289 L 44.021484 171.57227 L 65.804688 158.99609 L 37.849609 151.57031 L 40.759766 140.67578 L 79.001953 150.83203 L 78.830078 151.47656 L 116.21289 129.89258 L 79.175781 108.50977 L 41.353516 118.55469 L 38.443359 107.66016 L 65.335938 100.51953 L 44.021484 88.212891 L 50.453125 77.072266 L 71.162109 89.029297 L 64.253906 63.009766 L 75.146484 60.099609 L 84.941406 96.984375 L 120.91211 117.75195 L 120.91211 75.970703 L 93.996094 48.933594 L 101.97656 40.966797 L 120.91211 59.986328 L 120.91211 35.5 z "
+       transform="translate(0,796.36216)"
+       id="path4145" />
   </g>
 </svg>
