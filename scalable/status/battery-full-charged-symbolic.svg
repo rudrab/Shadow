@@ -54,17 +54,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36216)">
-    <circle
-       style="fill:#68bdff;fill-opacity:1;stroke:#68bdff;stroke-width:29.08082771;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4136"
-       cx="128"
-       cy="924.36218"
-       r="113.45959" />
     <path
-       style="fill:#570500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 98.34113,810.4564 53,931.36608 122.62434,926.9165 90.870629,1038.2679 203,871.84683 l -69.49718,8.6681 31.33864,-70.05853 z"
-       id="path4208"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 104.27344 36.875 L 157.47266 36.875 L 132.40234 92.921875 L 188 85.988281 L 98.296875 219.125 L 123.69922 130.04297 L 68 133.60352 L 104.27344 36.875 z "
+       transform="translate(0,796.36216)"
+       id="path4134" />
   </g>
 </svg>
