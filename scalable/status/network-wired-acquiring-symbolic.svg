@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.3632812"
-     inkscape:cx="128"
-     inkscape:cy="127.99998"
+     inkscape:cx="73.886178"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,7 +34,8 @@
      inkscape:window-height="1054"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
@@ -101,6 +102,26 @@
          cy="924.36218"
          r="128" />
     </clipPath>
+    <clipPath
+       id="clipPath4254"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="128"
+         cy="924.36218"
+         cx="128"
+         id="circle4256"
+         style="fill:#d64843;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4402">
+      <circle
+         r="128"
+         cy="924.36218"
+         cx="128"
+         id="circle4404"
+         style="fill:#6ac18d;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -110,7 +131,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -120,8 +141,8 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
-       style="fill:#73c3ff;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 68.929688 41.078125 L 187.07031 41.078125 L 187.07031 72.164062 L 218 72.164062 L 218 214.92188 L 38 214.92188 L 38 72.164062 L 68.929688 72.164062 L 68.929688 53.492188 L 68.929688 41.078125 z M 93.757812 65.90625 L 93.757812 96.992188 L 62.828125 96.992188 L 62.828125 190.0957 L 193.17188 190.0957 L 193.17188 96.992188 L 162.24219 96.992188 L 162.24219 65.90625 L 93.757812 65.90625 z M 84.576172 126.39258 A 15 15 0 0 1 99.576172 141.39258 A 15 15 0 0 1 84.576172 156.39258 A 15 15 0 0 1 69.576172 141.39258 A 15 15 0 0 1 84.576172 126.39258 z M 128 126.39258 A 15 15 0 0 1 143 141.39258 A 15 15 0 0 1 128 156.39258 A 15 15 0 0 1 113 141.39258 A 15 15 0 0 1 128 126.39258 z M 171.42383 126.39258 A 15 15 0 0 1 186.42383 141.39258 A 15 15 0 0 1 171.42383 156.39258 A 15 15 0 0 1 156.42383 141.39258 A 15 15 0 0 1 171.42383 126.39258 z "
+       style="fill:#6ac18d;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 95.308594 36.714844 L 160.69141 36.714844 L 160.69141 60.466797 L 186.8457 60.466797 L 186.8457 76.515625 L 213 76.515625 L 213 207.28516 L 186.55469 207.28516 L 186.55469 170.73242 C 186.55469 167.5931 184.02799 165.06641 180.88867 165.06641 C 177.74935 165.06641 175.2207 167.5931 175.2207 170.73242 L 175.2207 207.28516 L 160.11133 207.28516 L 160.11133 170.73242 C 160.11133 167.5931 157.58463 165.06641 154.44531 165.06641 C 151.306 165.06641 148.7793 167.5931 148.7793 170.73242 L 148.7793 207.28516 L 133.66602 207.28516 L 133.66602 170.73242 C 133.66602 167.5931 131.13932 165.06641 128 165.06641 C 124.86068 165.06641 122.33398 167.5931 122.33398 170.73242 L 122.33398 207.28516 L 107.2207 207.28516 L 107.2207 170.73242 C 107.2207 167.5931 104.694 165.06641 101.55469 165.06641 C 98.41536 165.06641 95.888672 167.5931 95.888672 170.73242 L 95.888672 207.28516 L 80.779297 207.28516 L 80.779297 170.73242 C 80.779297 167.5931 78.250648 165.06641 75.111328 165.06641 C 71.97201 165.06641 69.445312 167.5931 69.445312 170.73242 L 69.445312 207.28516 L 43 207.28516 L 43 76.515625 L 69.154297 76.515625 L 69.154297 60.466797 L 95.308594 60.466797 L 95.308594 36.714844 z M 71.210938 105.5 A 22.5 22.5 0 0 0 48.710938 128 A 22.5 22.5 0 0 0 71.210938 150.5 A 22.5 22.5 0 0 0 93.710938 128 A 22.5 22.5 0 0 0 71.210938 105.5 z M 128 105.5 A 22.5 22.5 0 0 0 105.5 128 A 22.5 22.5 0 0 0 128 150.5 A 22.5 22.5 0 0 0 150.5 128 A 22.5 22.5 0 0 0 128 105.5 z M 184.78906 105.5 A 22.5 22.5 0 0 0 162.28906 128 A 22.5 22.5 0 0 0 184.78906 150.5 A 22.5 22.5 0 0 0 207.28906 128 A 22.5 22.5 0 0 0 184.78906 105.5 z "
        transform="translate(0,796.36216)"
        id="path4145" />
   </g>
