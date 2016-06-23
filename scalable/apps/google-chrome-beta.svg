@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.3632812"
-     inkscape:cx="73.886178"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -93,6 +93,25 @@
         <ellipse
            style="opacity:1;fill:#4285f4;fill-opacity:1;stroke:#ffffff;stroke-width:10.39890003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse4177"
+           cx="128"
+           cy="922.36218"
+           rx="47.850548"
+           ry="47.850552" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4177">
+      <g
+         id="g4179">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4181"
+           d="m 112.17369,1051.5786 c -10.0014,-1.4495 -12.15632,-1.8201 -12.531789,-2.1556 -0.248854,-0.2223 1.738309,-3.7475 4.550299,-8.0722 7.16635,-11.0213 49.77231,-74.648 50.25856,-75.05488 3.57509,-2.99158 8.63523,-8.0414 10.57512,-10.55356 3.36154,-4.35318 7.55784,-12.9141 9.06523,-18.494 6.19314,-22.92535 -2.59253,-47.15185 -21.69967,-59.83688 l -2.96081,-1.96565 17.02469,0.29584 c 9.36358,0.1627 31.17032,0.43384 48.45941,0.60252 l 31.43471,0.30668 1.54584,4.18869 c 2.24597,6.08579 4.67816,15.0947 5.93451,21.9816 1.52517,8.36049 1.92536,28.85896 0.73851,37.82758 -3.0805,23.27845 -12.81326,45.72018 -27.80202,64.10576 -20.47622,25.1166 -51.4599,42.1974 -84.14612,46.3885 -5.31244,0.6812 -26.64601,0.9864 -30.44647,0.4356 z"
+           style="fill:#f4b400;fill-opacity:1;stroke:none;stroke-width:4.85768509;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <ellipse
+           style="opacity:1;fill:#4285f4;fill-opacity:1;stroke:#ffffff;stroke-width:10.39890003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse4183"
            cx="128"
            cy="922.36218"
            rx="47.850548"
@@ -190,34 +209,35 @@
          style="opacity:1;fill:#4285f4;fill-opacity:1;stroke:#ffffff;stroke-width:10.39890003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g4179"
-       style="fill:#b54626;fill-opacity:1">
+       id="g4185"
+       style="fill:#5996e4;fill-opacity:1"
+       transform="translate(0,-0.32701791)">
       <rect
-         y="925.84875"
-         x="115.95819"
-         height="60.357723"
-         width="118.33682"
+         y="917.2262"
+         x="95.442513"
+         height="72.548203"
+         width="135.76485"
          id="rect4161"
-         style="fill:#b54626;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="fill:#5996e4;fill-opacity:1;stroke:none;stroke-opacity:1" />
       <rect
-         clip-path="url(#clipPath4171)"
-         style="fill:#b54626;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="rect4163"
-         width="59.763069"
-         height="60.357723"
-         x="196.83159"
-         y="925.84875" />
+         clip-path="url(#clipPath4177)"
+         style="fill:#5996e4;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="rect4169"
+         width="50.134186"
+         height="72.548203"
+         x="205.86581"
+         y="917.2262" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.559021px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="123.20587"
-       y="971.90497"
-       id="text4233"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8188591px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.54746"
+       y="971.69684"
+       id="text4208"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4235"
-         x="123.20587"
-         y="971.90497">BETA</tspan></text>
+         id="tspan4210"
+         x="102.54746"
+         y="971.69684">BETA</tspan></text>
   </g>
 </svg>
