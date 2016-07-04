@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.3632812"
-     inkscape:cx="105.2062"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -226,16 +226,21 @@
          x="205.86581"
          y="917.2262" />
     </g>
-    <text
-       xml:space="preserve"
+    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.20987701px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="101.86378"
-       y="976.54041"
-       id="text4171"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4173"
-         x="101.86378"
-         y="976.54041">DEV</tspan></text>
+       id="text4171">
+      <path
+         d="m 117.48106,973.2688 5.74074,0 q 8.98148,0 13.76543,-5.12346 4.81482,-5.12345 4.81482,-14.69135 0,-9.56791 -4.78395,-14.62963 -4.78395,-5.06173 -13.7963,-5.06173 l -5.74074,0 0,39.50617 z m -12.12963,3.27161 0,-3.27161 5.8642,0 0,-39.50617 -5.8642,0 0,-3.30247 18.33333,0 q 11.91359,0 18.54939,6.08024 6.66666,6.08025 6.66666,16.91359 0,10.86419 -6.66666,16.9753 -6.66667,6.11112 -18.54939,6.11112 l -18.33333,0 z"
+         style=""
+         id="path4170" />
+      <path
+         d="m 156.09217,976.54041 0,-3.27161 5.8642,0 0,-39.50617 -5.8642,0 0,-3.30247 37.09877,0 0,10.24691 -3.7963,0 0,-6.45062 -21.17284,0 0,15.4321 15.0926,0 0,-5.7716 3.79629,0 0,15.30864 -3.79629,0 0,-5.7716 -15.0926,0 0,19.29012 21.66667,0 0,-6.45062 3.7963,0 0,10.24692 -37.5926,0 z"
+         style=""
+         id="path4172" />
+      <path
+         d="m 209.82674,933.76263 13.61111,35.37037 13.58025,-35.37037 -5.18519,0 0,-3.30247 13.51852,0 0,3.30247 -4.47531,0 -16.45061,42.77778 -5.30864,0 -16.35803,-42.77778 -4.59876,0 0,-3.30247 16.79012,0 0,3.30247 -5.12346,0 z"
+         style=""
+         id="path4174" />
+    </g>
   </g>
 </svg>
