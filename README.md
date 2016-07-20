@@ -2,7 +2,7 @@ Shadow
 ======
 *Shadow* is a flat icon-theme for gnome 3.10+. The icons have colourful circular base with long shadow.
 
-The stable version of this icon-theme is available at [gnome-looks](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
+The stable version of this icon-theme is available at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
 
 Installation
 ============
@@ -10,7 +10,7 @@ Installation in straight forward.
 > From Github:
 * `git clone` the content to `~/.icon` folder.
 
-> From gnome-looks.org
+> From [gnome-look.org](https://www.gnome-look.org/content/show.php/Shadow?content=170398)
 * Download and untar the file in `~/.icon` folder.
 
 
@@ -38,6 +38,6 @@ I will try my best to theme the icons ASAP.
 
 Coffee and Cookies
 ==================
-If you like the theme, don't forget to upvote it at [gnome-looks](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
+If you like the theme, don't forget to upvote it at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
 
-If you really like the theme, please consider me a cofee using paypal. Click `"Donate"` at [gnome-looks](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
+If you really like the theme, please consider me a cofee using paypal. Click `"Donate"` at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
