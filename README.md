@@ -40,4 +40,4 @@ Coffee and Cookies
 ==================
 If you like the theme, don't forget to upvote it at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
 
-If you really like the theme, please consider me a cofee using paypal. Click `"Donate"` at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
+If you really like the theme, please consider me a coffee using paypal. Click `"Donate"` at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
