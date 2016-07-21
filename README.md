@@ -2,7 +2,7 @@ Shadow
 ======
 Change the way you look at your desktop. Get carefully crafted, bright and clean icon-theme for
 Linux.
-![Change the Look](https://github.com/rudrab/Shadow/blob/gh-pages/burn-in.gif?raw=true)
+![Change the Look](http://rudrab.github.io/Shadow/burn-in.gif)
 
 
 *Shadow* is a flat icon-theme for gnome 3.10+. The icons have colourful circular base with long shadow.
