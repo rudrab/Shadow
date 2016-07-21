@@ -1,8 +1,13 @@
 Shadow
 ======
+Change the way you look at your desktop. Get carefully crafted, bright and clean icon-theme for
+Linux.
+![Change the Look](burn-in.gif "Optional Title")
+
+
 *Shadow* is a flat icon-theme for gnome 3.10+. The icons have colourful circular base with long shadow.
 
-The stable version of this icon-theme is available at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
+As of version 2.2, it contains 700+ apps icon , 1000+ system icons and counting.
 
 Installation
 ============
@@ -21,11 +26,14 @@ Activate the theme using `tweak-tool` or from command line:
 Whats New
 =========
 **version 2.2.x**
-   > * in development
+  > * in development
+
+**version 2.1.x**
+  > * ~60 symbolic icons for topbar.
 
 **version 2.0.x**
-   > * 60+ new icons
-   > * _Mimetypes_ and _places_ icons are circular. 
+  > * 60+ new icons
+  > * _Mimetypes_ and _places_ icons are circular. 
 
 New Icon Request:
 ================
@@ -40,4 +48,4 @@ Coffee and Cookies
 ==================
 If you like the theme, don't forget to upvote it at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
 
-If you really like the theme, please consider me a coffee using paypal. Click `"Donate"` at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
+If you _really_ like the theme, please consider me a coffee using paypal. Click `"Donate"` at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
