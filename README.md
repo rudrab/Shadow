@@ -49,3 +49,11 @@ Coffee and Cookies
 If you like the theme, don't forget to upvote it at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
 
 If you _really_ like the theme, please consider me a coffee using paypal. Click `"Donate"` at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
+
+My Other Apps
+-------------
+See other apps I have developed:
+- [mkbib](http://rudrab.github.io/mkbib/)
+- [Periodic Table](http://rudrab.github.io/PeriodicTable/)
+- [Shadow](http://rudrab.github.io/Shadow/)
+- [vimf90](http://rudrab.github.io/vimf90/)
