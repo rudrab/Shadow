@@ -1,7 +1,6 @@
-Shadow
-======
 Change the way you look at your desktop. Get carefully crafted, bright and clean icon-theme for
 Linux.
+
 
 ![Change the Look](http://rudrab.github.io/Shadow/burn-in.gif)
 
