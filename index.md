@@ -14,10 +14,10 @@ Installation
 ============
 Installation in straight forward.
 > From Github:
-* `git clone` the content to `~/.icon` folder.
+* `git clone` the content to `~/.icons` folder.
 
 > From [gnome-look.org](https://www.gnome-look.org/content/show.php/Shadow?content=170398)
-* Download and untar the file in `~/.icon` folder.
+* Download and untar the file in `~/.icons` folder.
 
 
 Activate the theme using `tweak-tool` or from command line:
