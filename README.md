@@ -1,7 +1,6 @@
-Shadow
-======
 Change the way you look at your desktop. Get carefully crafted, bright and clean icon-theme for
 Linux.
+
 ![Change the Look](http://rudrab.github.io/Shadow/burn-in.gif)
 
 
@@ -17,7 +16,6 @@ Installation in straight forward.
 
 > From [gnome-look.org](https://www.gnome-look.org/content/show.php/Shadow?content=170398)
 * Download and untar the file in `~/.icon` folder.
-
 
 Activate the theme using `tweak-tool` or from command line:
       
