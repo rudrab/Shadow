@@ -53,7 +53,7 @@ My Other Apps
 
 See other apps I have developed:
 
-- [MkBiB](http://rudrab.github.io/mkbib/): BiBTeX Manager
+- [MkBiB](http://rudrab.github.io/MkBiB/): BiBTeX Manager
 
 - [Periodic Table](http://rudrab.github.io/PeriodicTable/): Periodic Table and Extra
 
