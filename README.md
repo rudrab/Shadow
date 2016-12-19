@@ -1,5 +1,15 @@
+## Introduction
+
 Change the way you look at your desktop. Get carefully crafted, bright and clean icon-theme for
 Linux.
+
+
+- [Installation](#installation)
+- [Whats New](#whats-new)
+- [New Icon Request:](#new-icon-request)
+- [Coffee and Cookies](#coffee-and-cookies)
+- [My Other Apps](#my-other-apps)
+
 
 ![Change the Look](http://rudrab.github.io/Shadow/burn-in.gif)
 
@@ -8,21 +18,20 @@ Linux.
 
 As of version 2.2, it contains 700+ apps icon , 1000+ system icons and counting.
 
-Installation
-============
+## Installation
+
 Installation in straight forward.
 > From Github:
-* `git clone` the content to `~/.icon` folder.
+* `git clone` the content to `~/.icons` folder.
 
 > From [gnome-look.org](https://www.gnome-look.org/content/show.php/Shadow?content=170398)
-* Download and untar the file in `~/.icon` folder.
+* Download and untar the file in `~/.icons` folder.
 
 Activate the theme using `tweak-tool` or from command line:
       
       gsettings set org.gnome.desktop.interface icon-theme "shadow"
 
-Whats New
-=========
+## Whats New
 **version 2.2.x**
   > * in development
 
@@ -33,8 +42,7 @@ Whats New
   > * 60+ new icons
   > * _Mimetypes_ and _places_ icons are circular. 
 
-New Icon Request:
-================
+## New Icon Request:
 Don't hesitate to contact me if you want new icons to be themed.
 
 Please [raise icon request issue here](https://github.com/rudrab/Shadow/issues). 
@@ -42,14 +50,12 @@ Don't forget to add  ***"Icon request"*** label.
 
 I will try my best to theme the icons ASAP.
 
-Coffee and Cookies
-==================
+## Coffee and Cookies
 If you like the theme, don't forget to upvote it at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
 
 If you _really_ like the theme, please buy me a coffee using [PayPal](https://www.paypal.me/RudraBanerjee). 
 
-My Other Apps
-=============
+## My Other Apps
 
 See other apps I have developed:
 
