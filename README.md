@@ -46,7 +46,7 @@ Coffee and Cookies
 ==================
 If you like the theme, don't forget to upvote it at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
 
-If you _really_ like the theme, please consider me a coffee using [paypal](https://www.paypal.me/RudraBanerjee). 
+If you _really_ like the theme, please buy me a coffee using [PayPal](https://www.paypal.me/RudraBanerjee). 
 
 My Other Apps
 =============
