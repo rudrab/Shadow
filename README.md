@@ -16,7 +16,7 @@ Linux.
 
 *Shadow* is a flat icon-theme for gnome 3.10+. The icons have colourful circular base with long shadow.
 
-As of version 2.2, it contains 700+ apps icon , 1000+ system icons and counting.
+As of version 2.7, it contains 800+ apps icon , 800+ system icons and counting.
 
 ## Installation
 
@@ -32,8 +32,8 @@ Activate the theme using `tweak-tool` or from command line:
       gsettings set org.gnome.desktop.interface icon-theme "shadow"
 
 ## Whats New
-**version 2.2.x**
-  > * in development
+**version 2.7**
+  > * 50+ new icons, mostly symbolic and emotes;
 
 **version 2.1.x**
   > * ~60 symbolic icons for topbar.
