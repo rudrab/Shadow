@@ -18,7 +18,8 @@ Linux.
 
 As of version 2.7, it contains 800+ apps icon , 800+ system icons and counting.
 
-**MAJOR UPDATE**
+### MAJOR UPDATE
+
 *Version 3* includes many new icons. Plus 3 gem themed *places* i.e. folder icons based on ruby,
 emerald and sapphire, beside the old blue(which is still default). To change the theme, go to
 installation directory, `~/.icons/shadow`
