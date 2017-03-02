@@ -18,7 +18,7 @@ Linux.
 
 As of version 2.7, it contains 800+ apps icon , 800+ system icons and counting.
 
-### MAJOR UPDATE
+#### MAJOR UPDATE:
 
 *Version 3* includes many new icons. Plus 3 gem themed *places* i.e. folder icons based on ruby,
 emerald and sapphire, beside the old blue(which is still default). To change the theme, go to
@@ -27,7 +27,11 @@ installation directory, `~/.icons/shadow`
       unlink places
       ln -s places_<theme> places
 
-with `places_<theme>` is either `places`, `places_ruby`, `places_emerald` or `places_sapphire`.
+with `places_<theme>` is either `places_turquoise`, `places_ruby`, `places_emerald` or `places_sapphire`.
+
+I will try to upload a script soon to facilitate the change, but that may take some time.
+
+Stay tuned.
 
 ## Installation
 
@@ -43,6 +47,10 @@ Activate the theme using `tweak-tool` or from command line:
       gsettings set org.gnome.desktop.interface icon-theme "shadow"
 
 ## Whats New
+**version 3.0**
+  > 3 new colors for folders added. Users can choose from<br/> 
+  > ruby, emerald and sapphire colored themes for folder.
+
 **version 2.7**
   > * 50+ new icons, mostly symbolic and emotes;
 
