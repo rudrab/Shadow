@@ -25,9 +25,11 @@ else:
 print(scheme.upper() +" scheme will be applied")
 schemename="places_"+scheme
 nautilaus = "./"+schemename+"/system-file-manager.svg"
+foldernew = "./"+schemename+"/folder-new.svg"
 print(schemename)
 print(nautilaus)
 os.chdir("./scalable")
 os.unlink("places")
 os.symlink(schemename,"places")
 shutil.copy(nautilaus,"./apps")
+shutil.copy(foldernew,"./actions")
