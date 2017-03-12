@@ -18,21 +18,6 @@ Linux.
 
 As of version 2.7, it contains 800+ apps icon , 800+ system icons and counting.
 
-#### MAJOR UPDATE:
-
-*Version 3* includes many new icons. Plus 3 gem themed *places* i.e. folder icons based on ruby,
-emerald and sapphire, beside the old blue(which is still default). To change the theme, go to
-installation directory, `~/.icons/shadow`
-      
-      unlink places
-      ln -s places_<theme> places
-
-with `places_<theme>` is either `places_turquoise`, `places_ruby`, `places_emerald` or `places_sapphire`.
-
-I will try to upload a script soon to facilitate the change, but that may take some time.
-
-Stay tuned.
-
 ## Installation
 
 Installation in straight forward.
@@ -45,6 +30,20 @@ Installation in straight forward.
 Activate the theme using `tweak-tool` or from command line:
       
       gsettings set org.gnome.desktop.interface icon-theme "shadow"
+
+
+#### Optional: Icon themes
+
+*Version 3* includes many new icons. Plus 3 gem themed *places* i.e. folder icons based on ruby,
+emerald and sapphire, beside the old torquise(which is still default) and the square icons. 
+
+There is a python script named `changecolor.py` in the parent folder. Just run this as
+
+    python changecolor.py
+
+and choose from numbers shown to enable the theme.
+
+Hope you will like it.
 
 ## Whats New
 **version 3.0**
