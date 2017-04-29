@@ -23,8 +23,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0507812"
-     inkscape:cx="56.958967"
+     inkscape:zoom="3.3359375"
+     inkscape:cx="127.70023"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -159,6 +159,16 @@
          cy="924.36218"
          cx="128"
          id="circle130"
+         style="fill:#00c3ff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4595">
+      <circle
+         r="128"
+         cy="924.36218"
+         cx="128"
+         id="circle4597"
          style="fill:#00c3ff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353" />
     </clipPath>
   </defs>
@@ -515,24 +525,24 @@
       </g>
     </g>
     <rect
-       id="rect124"
-       width="180"
-       height="104.99998"
-       x="145"
-       y="912.36218"
-       ry="52.499989"
-       style="stroke-width:1.11508775;fill:#fbd036;fill-opacity:1"
-       clip-path="url(#clipPath128)" />
+       style="fill:#fbd036;fill-opacity:1;stroke-width:1.10194635"
+       id="rect4591"
+       width="170"
+       height="90"
+       x="125"
+       y="947.36218"
+       ry="45"
+       clip-path="url(#clipPath4595)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.24778748px;line-height:27.65486717px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10619473"
-       x="179.21469"
-       y="988.71454"
+       x="159.13039"
+       y="1018.9909"
        id="text134"><tspan
          sodipodi:role="line"
          id="tspan132"
-         x="179.21469"
-         y="988.71454"
+         x="159.13039"
+         y="1018.9909"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:88.49557495px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Semi-Bold';stroke-width:1.10619473">β</tspan></text>
   </g>
 </svg>
