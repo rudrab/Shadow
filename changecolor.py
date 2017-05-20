@@ -3,20 +3,23 @@ import os
 import shutil
 
 print("1:"+'\x1b[1;48;2;80;200;120m'+"  Emerald  "+ '\x1b[0m')
-print("2:"+'\x1b[1;48;2;231;34;52m'+ "   Ruby    "+ '\x1b[0m')
-print("3:"+'\x1b[1;48;2;79;142;241m'+" Sapphire  "+ '\x1b[0m')
-print("4:"+'\x1b[1;48;2;44;202;255m'+" Torquiose "+ '\x1b[0m')
+print("2:"+'\x1b[1;48;2;230;91;0m'+"  Garnet   "+ '\x1b[0m')
+print("3:"+'\x1b[1;48;2;231;34;52m'+ "   Ruby    "+ '\x1b[0m')
+print("4:"+'\x1b[1;48;2;79;142;241m'+" Sapphire  "+ '\x1b[0m')
+print("5:"+'\x1b[1;48;2;44;202;255m'+" Torquiose "+ '\x1b[0m')
 print("9:"+'Square')
 name=int(input("Choose one of the color scheme:"))
 scheme = ""
 if name == 1:
   scheme = "emerald"
 elif name == 2:
-  scheme = "ruby"
+  scheme = "garnet"
 elif name == 3:
-  scheme = "sapphire"
+  scheme = "ruby"
 elif name == 4:
-  scheme = "torquise"
+  scheme = "sapphire"
+elif name == 5:
+  scheme = "turquoise"
 elif name == 9:
   scheme = "square"
 else:
