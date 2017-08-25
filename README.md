@@ -6,7 +6,7 @@ Linux.
 
 - [Installation](#installation)
 - [Whats New](#whats-new)
-- [New Icon Request:](#new-icon-request)
+- [New Icon Request](#new-icon-request)
 - [Coffee and Cookies](#coffee-and-cookies)
 - [My Other Apps](#my-other-apps)
 
