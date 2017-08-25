@@ -66,6 +66,18 @@ Don't hesitate to contact me if you want new icons to be themed.
 Please [raise icon request issue here](https://github.com/rudrab/Shadow/issues). 
 Don't forget to add  ***"Icon request"*** label. 
 
+### How to request new icons
+
+For faster creation of new files, kindly give me those information:
+If you are requesting icon `foo`, kindly send me `foo.desktop` file or atleast the Icon line from
+the file. If you have installed the package from your package manager, it should live on
+`/usr/share/applications/foo.desktop`. If you have installed it yourself, most likely, it will be
+either at `/usr/local/applications/foo.desktop` (if you have installed it with root) or 
+`~/.local/share/applications/foo.desktop` (if you have installed it without root). 
+
+Another very helpful thing will be providing me the default icon. You can just grab a screenshot
+with the icon visible and send it to me. But this is completely optional.
+
 I will try my best to theme the icons ASAP.
 
 ## Coffee and Cookies
