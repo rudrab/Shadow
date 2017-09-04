@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92+devel unknown"
    sodipodi:docname="skypeforlinux.svg">
   <sodipodi:namedview
      id="base"
@@ -23,18 +23,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3359375"
-     inkscape:cx="76.440277"
+     inkscape:zoom="2.140625"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4168"
@@ -533,16 +534,14 @@
        y="947.36218"
        ry="45"
        clip-path="url(#clipPath4595)" />
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="β"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.24778748px;line-height:27.65486717px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10619473"
-       x="167.35841"
-       y="1019.5746"
-       id="text134"><tspan
-         sodipodi:role="line"
-         id="tspan132"
-         x="167.35841"
-         y="1019.5746"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:88.49557495px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Semi-Bold';stroke-width:1.10619473">β</tspan></text>
+       id="text134">
+      <path
+         d="m 171.16372,1027.3622 v -48.40708 q 0,-3.53983 0.17699,-6.0177 0.26549,-2.56637 1.23894,-5.75222 0.97345,-3.18584 2.74337,-5.13274 1.76991,-1.9469 5.04424,-3.27434 3.27434,-1.41592 7.87611,-1.41592 7.87611,0 12.38938,3.45132 4.60177,3.36284 4.60177,12.0354 0,7.25664 -7.16814,11.59292 11.76991,3.71682 11.76991,17.61066 0,8.1416 -5.9292,13.1858 -5.84071,5.0442 -13.18584,5.0442 -3.00885,0 -5.57523,-1.2389 -2.56637,-1.3274 -3.45132,-2.2124 -0.79646,-0.9734 -2.0354,-2.4779 v 13.0089 z m 8.49558,-29.38054 q 0,4.33624 0.79646,6.99114 0.97345,3.4513 3.45133,6.1947 2.56637,2.6549 6.63716,2.6549 4.24779,0 7.52213,-3.1859 3.27433,-3.1858 3.27433,-8.407 0,-3.89385 -1.32743,-6.63722 -1.23894,-2.74336 -3.00885,-4.15929 -1.68141,-1.41593 -4.60177,-2.21239 -2.92035,-0.79646 -4.95575,-0.97345 -1.9469,-0.17699 -5.04425,-0.17699 v -5.57522 q 0.79646,0 1.76991,0 1.06195,-0.0885 3.45133,-0.61947 2.47788,-0.53097 4.24779,-1.41593 1.85841,-0.97345 3.27433,-2.92035 1.50443,-2.0354 1.50443,-4.77876 0,-9.55753 -8.31859,-9.55753 -2.47787,0 -4.15929,0.88496 -1.68141,0.79646 -2.56637,1.9469 -0.88495,1.15044 -1.32743,3.36283 -0.44248,2.21239 -0.53098,3.89381 -0.0885,1.59292 -0.0885,4.51327 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:88.49557495px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Semi-Bold';stroke-width:1.10619473"
+         id="path3571" />
+    </g>
   </g>
 </svg>
