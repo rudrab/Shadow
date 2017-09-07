@@ -7,6 +7,8 @@ Linux.
 - [Installation](#installation)
 - [Whats New](#whats-new)
 - [New Icon Request](#new-icon-request)
+- [Troubleshoot](#troubleshoot)
+  - [Icon themed but does not appear](#icon-themed-but-does-not-appear)
 - [Coffee and Cookies](#coffee-and-cookies)
 - [My Other Apps](#my-other-apps)
 
@@ -79,6 +81,27 @@ Another very helpful thing will be providing me the default icon. You can just g
 with the icon visible and send it to me. But this is completely optional.
 
 I will try my best to theme the icons ASAP.
+
+## Troubleshoot
+#### Icon themed but does not appear
+ Most of the time, this is because, the corresponding desktop file has full path in icon name.
+ like, for some app named Foo, the corresponding `foo.desktop` file (e.g.
+ `/usr/share/applications/foo.desktop`) may look like:
+ ```
+[Desktop Entry]
+Name=Foo
+Exec=foo
+Icon=/usr/share/icons/hicolor/foo-icon.png
+ ```
+
+This can not be themed. The workaround is to copy it to your `~/.local/share/applications/`
+and give the icon generic path like:
+```
+[Desktop Entry]
+Name=Foo
+Exec=foo
+Icon=foo-icon
+ ```
 
 ## Coffee and Cookies
 If you like the theme, don't forget to upvote it at [gnome-look](https://www.gnome-look.org/content/show.php/Shadow?content=170398).
