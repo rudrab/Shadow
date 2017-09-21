@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="bluetooth-symbolic.svg"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92+devel unknown"
    version="1.1"
    id="svg2"
    viewBox="0 0 256 256"
@@ -20,21 +20,22 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1054"
+     inkscape:window-height="1027"
      inkscape:window-width="1920"
      units="px"
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="128"
-     inkscape:cx="128"
+     inkscape:cx="66.697892"
      inkscape:zoom="3.3359375"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4301"
@@ -178,14 +179,9 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 154.47438,968.80998 101.03985,1048.476 0.4857685,1048.9618 0,842.0244 l 33.032258,-2.42884 45.176471,83.55218 21.373814,35.4611 26.717267,13.11575 z"
-       id="path4913"
-       inkscape:connector-curvature="0" />
-    <path
+       inkscape:connector-curvature="0"
        style="opacity:1;fill:#4285f4;fill-opacity:1;stroke:none;stroke-width:20.51976967;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 128 1 A 128 128 0 0 0 0 129 A 128 128 0 0 0 128 257 A 128 128 0 0 0 256 129 A 128 128 0 0 0 128 1 z M 121.55078 26.029297 A 12.721485 12.721485 0 0 1 130.74414 29.726562 L 181.625 80.607422 A 12.721485 12.721485 0 0 1 181.625 98.892578 L 152.60547 127.91016 L 181.625 156.92969 A 12.721485 12.721485 0 0 1 181.625 175.21484 L 130.74414 226.0957 A 12.721485 12.721485 0 0 1 108.88086 216.95312 L 108.88086 171.63672 L 92.582031 187.93555 A 12.929663 12.929663 0 1 1 74.296875 169.64844 L 108.88086 135.06641 L 108.88086 120.75586 L 74.296875 86.173828 A 12.929665 12.929665 0 1 1 92.582031 67.886719 L 108.88086 84.185547 L 108.88086 38.869141 A 12.721485 12.721485 0 0 1 120.00977 26.148438 A 12.721485 12.721485 0 0 1 121.55078 26.029297 z M 134.32031 69.875 L 134.32031 109.625 L 154.19531 89.75 L 134.32031 69.875 z M 134.32031 146.19727 L 134.32031 185.94727 L 154.19531 166.07227 L 134.32031 146.19727 z "
-       transform="translate(0,796.36216)"
+       d="m 128,796.36214 a 128,128 0 0 0 -128,128 128,128 0 0 0 128,128.00006 128,128 0 0 0 128,-128.00006 128,128 0 0 0 -128,-128 z m -6.44922,25.0293 a 12.721485,12.721485 0 0 1 9.19336,3.69726 l 50.88086,50.88086 a 12.721485,12.721485 0 0 1 0,18.28516 l -29.01953,29.01758 29.01953,29.01953 a 12.721485,12.721485 0 0 1 0,18.28515 l -50.88086,50.88092 a 12.721485,12.721485 0 0 1 -21.86328,-9.1426 V 966.99886 L 92.582031,983.29769 A 12.930249,12.930249 0 1 1 74.296875,965.01058 L 108.88086,930.42855 V 916.118 L 74.296875,881.53597 a 12.930249,12.930249 0 1 1 18.285156,-18.28711 l 16.298829,16.29883 v -45.31641 a 12.721485,12.721485 0 0 1 11.12891,-12.7207 12.721485,12.721485 0 0 1 1.54101,-0.11914 z m 12.76953,43.8457 v 39.75 l 19.875,-19.875 z m 0,76.32227 v 39.75 l 19.875,-19.875 z"
        id="path4152" />
   </g>
 </svg>
