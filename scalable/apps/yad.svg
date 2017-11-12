@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="yad.svg">
   <sodipodi:namedview
      id="base"
@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3632812"
-     inkscape:cx="73.588849"
+     inkscape:zoom="3.3359375"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1054"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        spacingy="5"
@@ -499,49 +499,45 @@
            style="fill:#e635ff;fill-opacity:1;stroke:none;stroke-width:13.16781998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
       </g>
     </g>
-    <g
-       transform="matrix(1.1820743,0,0,1.1820743,-23.584002,-173.8803)"
-       id="g951">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.1395874;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect894"
-         width="43.528816"
-         height="74.832573"
-         x="106.47118"
-         y="867.5296" />
-      <ellipse
-         style="fill:#ffffff;fill-opacity:1;stroke:#767676;stroke-width:6.15608788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="path898"
-         cx="128.2356"
-         cy="866.15912"
-         rx="24.546324"
-         ry="5.9078341" />
-      <ellipse
-         ry="44.212345"
-         rx="50"
-         cy="956.77588"
-         cx="128.2356"
-         id="ellipse920"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.56587601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-      <path
-         style="fill:#49df71;fill-opacity:1;stroke:none;stroke-width:9.84987354;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="path927"
-         sodipodi:type="arc"
-         sodipodi:cx="128"
-         sodipodi:cy="-953.36218"
-         sodipodi:rx="45"
-         sodipodi:ry="44"
-         sodipodi:start="3.1415927"
-         sodipodi:end="0"
-         d="m 83,-953.36218 a 45,44 0 0 1 45,-44 45,44 0 0 1 45,44 h -45 z"
-         transform="scale(1,-1)" />
-      <ellipse
-         style="fill:#00d616;fill-opacity:1;stroke:none;stroke-width:9.60848427;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="path922"
-         cx="128"
-         cy="954.12177"
-         rx="45"
-         ry="5" />
-    </g>
+    <rect
+       y="851.60413"
+       x="102.27285"
+       height="88.457664"
+       width="51.454296"
+       id="rect894"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:13.16781998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <ellipse
+       ry="6.9834986"
+       rx="29.015579"
+       cy="849.98413"
+       cx="128"
+       id="path898"
+       style="fill:#ffffff;fill-opacity:1;stroke:#c8c8c8;stroke-width:7.27695322;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:14.85379887;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="ellipse920"
+       cx="128"
+       cy="957.09985"
+       rx="59.103714"
+       ry="52.262276" />
+    <path
+       transform="scale(1,-1)"
+       d="m 74.528168,-953.06464 a 53.193344,52.011269 0 0 1 53.193342,-52.01126 53.193344,52.011269 0 0 1 53.19335,52.01126 h -53.19335 z"
+       sodipodi:end="0"
+       sodipodi:start="3.1415927"
+       sodipodi:ry="52.011269"
+       sodipodi:rx="53.193344"
+       sodipodi:cy="-953.06464"
+       sodipodi:cx="127.72151"
+       sodipodi:type="arc"
+       id="path927"
+       style="fill:#38f14d;fill-opacity:0.99607843;stroke:none;stroke-width:11.64328194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <ellipse
+       ry="5.9103713"
+       rx="53.193344"
+       cy="953.96252"
+       cx="127.72151"
+       id="path922"
+       style="fill:#00cd09;fill-opacity:1;stroke:none;stroke-width:11.35794258;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
   </g>
 </svg>

@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="font-x-generic.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    version="1.1"
    id="svg2"
    viewBox="0 0 256 256"
@@ -27,7 +27,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="128"
-     inkscape:cx="128"
+     inkscape:cx="73.886178"
      inkscape:zoom="3.3632812"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -107,16 +107,16 @@
        d="m 255.61415,924.52718 a 128,128 0 0 0 0.16406,-0.006 L 127.62197,796.36506 a 128,128 0 0 0 -0.008,0.16211 128,128 0 0 0 35.85352,88.80861 l 0.98046,0.98046 a 128,128 0 0 0 91.16603,38.21094 z"
        style="fill:#c3d8fb;fill-opacity:1" />
     <text
-       sodipodi:linespacing="125%"
        id="text4164"
        y="965.15338"
        x="54.857143"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="965.15338"
          x="54.857143"
          id="tspan4166"
-         sodipodi:role="line" /></text>
+         sodipodi:role="line"
+         style="font-size:40px;line-height:1.25"> </tspan></text>
     <g
        id="g4183"
        transform="matrix(0.9019721,0,0,0.9019721,12.547571,123.17073)"
@@ -472,41 +472,22 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#224f9b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0.9019721,0,0,0.9019721,12.547571,123.17073)"
-       id="g4432">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4434"
-         y="897.22455"
-         x="90.115784"
-         style="font-style:normal;font-weight:normal;font-size:90px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="897.22455"
-           x="90.115784"
-           id="tspan4436"
-           sodipodi:role="line">a</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4438"
-         y="956.12555"
-         x="142.31387"
-         style="font-style:normal;font-weight:normal;font-size:90px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="956.12555"
-           x="142.31387"
-           id="tspan4440"
-           sodipodi:role="line">b</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4442"
-         y="1000.1351"
-         x="56.230072"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="1000.1351"
-           x="56.230072"
-           id="tspan4444"
-           sodipodi:role="line">C</tspan></text>
+       aria-label="a"
+       style="font-style:normal;font-weight:normal;font-size:10.82366562px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90197212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4434">
+      <path
+         style="font-size:81.17749023px;line-height:1.25;stroke-width:0.90197212px"
+         d="M 117.05664 90.615234 C 114.67839 90.615234 112.23498 90.879703 109.72461 91.408203 C 107.21424 91.910276 104.624 92.676458 101.95508 93.707031 L 101.95508 100.44531 C 104.17477 99.229759 106.4879 98.318711 108.89258 97.710938 C 111.29725 97.103164 113.76789 96.798828 116.30469 96.798828 C 120.29486 96.798828 123.38485 97.724472 125.57812 99.574219 C 127.79782 101.39755 128.9082 103.98778 128.9082 107.34375 L 128.9082 108.05664 L 118.68164 108.05664 C 112.04897 108.05664 107.05519 109.32453 103.69922 111.86133 C 100.36968 114.39813 98.705078 118.16389 98.705078 123.1582 C 98.705078 127.43905 100.04006 130.86061 102.70898 133.42383 C 105.40433 135.96063 109.02327 137.23047 113.56836 137.23047 C 117.16215 137.23047 120.2016 136.59457 122.68555 135.32617 C 125.16949 134.03135 127.24343 132.03714 128.9082 129.3418 L 128.9082 136.08008 L 136.20117 136.08008 L 136.20117 110.75195 C 136.20117 103.98717 134.61631 98.938922 131.44531 95.609375 C 128.27431 92.279828 123.47791 90.615234 117.05664 90.615234 z M 121.6543 113.76367 L 128.9082 113.76367 L 128.9082 115.38867 C 128.9082 120.14517 127.68018 123.96342 125.22266 126.84375 C 122.79156 129.69764 119.55474 131.125 115.51172 131.125 C 112.57855 131.125 110.25278 130.37145 108.53516 128.86523 C 106.84396 127.33258 105.99805 125.27324 105.99805 122.68359 C 105.99805 119.43333 107.1337 117.13283 109.40625 115.78516 C 111.6788 114.43748 115.76153 113.76367 121.6543 113.76367 z M 148.2832 127.53125 L 148.2832 189.20703 L 155.61523 189.20703 L 155.61523 182.54883 C 157.14789 185.19133 159.07695 187.15831 161.40234 188.45312 C 163.75416 189.72153 166.55637 190.35742 169.80664 190.35742 C 175.19733 190.35742 179.56981 188.21639 182.92578 183.93555 C 186.30818 179.65471 188 174.02502 188 167.04883 C 188 160.07264 186.30818 154.44491 182.92578 150.16406 C 179.56981 145.88322 175.19733 143.74219 169.80664 143.74219 C 166.55637 143.74219 163.75416 144.39072 161.40234 145.68555 C 159.07695 146.95395 157.14789 148.90829 155.61523 151.55078 L 155.61523 127.53125 L 148.2832 127.53125 z M 116.5 145.22266 C 108.86612 145.22266 102.16836 146.54501 96.40625 149.1875 C 90.680841 151.82999 85.579126 155.92098 81.101562 161.46289 C 76.880908 166.67448 73.632905 172.43737 71.357422 178.75 C 69.118641 185.06263 68 191.48474 68 198.01758 C 68 208.22053 70.954366 216.18476 76.863281 221.91016 C 82.808898 227.63562 91.048749 230.5 101.58203 230.5 C 106.0596 230.5 110.51812 230.02263 114.95898 229.06836 C 119.43655 228.11416 123.8591 226.69992 128.22656 224.82812 L 130.81445 211.67188 C 126.37359 214.93827 121.80324 217.39729 117.10547 219.04883 C 112.4077 220.66369 107.50969 221.4707 102.4082 221.4707 C 95.031236 221.4707 89.396201 219.50708 85.505859 215.58008 C 81.652219 211.65301 79.726562 205.94606 79.726562 198.45898 C 79.726562 193.98142 80.295852 189.54088 81.433594 185.13672 C 82.608036 180.69586 84.295967 176.49304 86.498047 172.5293 C 89.947973 166.36347 94.038965 161.77513 98.773438 158.76562 C 103.54461 155.75611 109.06977 154.25195 115.3457 154.25195 C 119.93337 154.25195 124.19015 155.11488 128.11719 156.83984 C 132.08093 158.5648 135.82433 161.20754 139.34766 164.76758 L 141.60547 153.04102 C 137.97204 150.43522 134.04488 148.48962 129.82422 147.20508 C 125.64027 145.88383 121.19777 145.22266 116.5 145.22266 z M 168.02344 149.84766 C 171.88148 149.84766 174.90634 151.38002 177.09961 154.44531 C 179.3193 157.48419 180.42969 161.68456 180.42969 167.04883 C 180.42969 172.41309 179.3193 176.62806 177.09961 179.69336 C 174.90634 182.73223 171.88148 184.25195 168.02344 184.25195 C 164.1654 184.25195 161.12595 182.73223 158.90625 179.69336 C 156.71298 176.62806 155.61523 172.41309 155.61523 167.04883 C 155.61523 161.68456 156.71298 157.48419 158.90625 154.44531 C 161.12595 151.38002 164.1654 149.84766 168.02344 149.84766 z "
+         transform="translate(0,796.36214)"
+         id="path931" />
     </g>
+    <g
+       aria-label="b"
+       style="font-style:normal;font-weight:normal;font-size:10.82366562px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90197212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4438" />
+    <g
+       aria-label="C"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.82366562px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90197212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4442" />
   </g>
 </svg>
