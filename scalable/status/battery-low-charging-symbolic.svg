@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="battery-low-charging-symbolic.svg">
   <defs
      id="defs4" />
@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3632812"
-     inkscape:cx="73.886178"
+     inkscape:zoom="3.3125"
+     inkscape:cx="62.792453"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,16 +55,9 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
-       style="fill:#570500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 98.34114,810.45639 53,931.36608 122.62434,926.91651 90.87063,1038.2679 203,871.84683 l -69.49717,8.6681 31.33863,-70.05854 z"
-       id="path4208"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#fe9232;stroke-width:29.08082771;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4136"
-       cx="128"
-       cy="924.36218"
-       r="113.45959" />
+       style="fill:#67bdff;fill-opacity:1;stroke-width:3.45435405"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 123.20703 8.0957031 A 120 120 0 0 1 199.6582 31.746094 A 120 120 0 0 1 240.76367 169.04297 L 188 169.04297 L 188 226.53516 L 68 226.53516 L 68 169.04297 L 15.236328 169.04297 A 120 120 0 0 1 56.341797 31.746094 A 120 120 0 0 1 123.20703 8.0957031 z M 68 169.04297 L 121.81055 169.04297 L 133.91211 138.19727 L 75.833984 144.74023 L 107.37109 60.642578 L 153.625 60.642578 L 131.82812 109.37109 L 180.16602 103.3418 L 135.89844 169.04297 L 188 169.04297 L 188 53.201172 L 165.39453 53.201172 L 165.39453 19.333984 L 90.605469 19.333984 L 90.605469 53.201172 L 68 53.201172 L 68 169.04297 z M 135.89844 169.04297 L 121.81055 169.04297 L 102.17578 219.09375 L 135.89844 169.04297 z "
+       transform="translate(0,796.36216)"
+       id="path816" />
   </g>
 </svg>
