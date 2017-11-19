@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="view-calendar-day.svg">
   <sodipodi:namedview
      id="base"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="128"
+     inkscape:cx="25.112378"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -304,13 +304,13 @@
        d="m 183.04951,876.87457 15.00004,0 c 2.76999,0 4.99998,2.22999 4.99998,4.99998 l 0,15.00004 c 0,2.76999 -2.22999,4.99998 -4.99998,4.99998 l -15.00004,0 c -2.76999,0 -4.99998,-2.22999 -4.99998,-4.99998 l 0,-15.00004 c 0,-2.76999 2.22999,-4.99998 4.99998,-4.99998 z"
        id="rect4221" />
     <rect
-       ry="10.999956"
-       y="902.04034"
-       x="76.933342"
-       height="55"
-       width="55"
+       ry="8.9999638"
+       y="907.04034"
+       x="81.933342"
+       height="45"
+       width="45"
        id="rect5470"
-       style="fill:#ff3517;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ff3517;fill-opacity:1;stroke:none;stroke-width:2.29090905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        ry="4.99998"
        y="956.87457"
@@ -376,5 +376,13 @@
        d="m 183.04951,917.04032 15.00004,0 c 2.76999,0 4.99998,2.22999 4.99998,4.99998 l 0,15.00004 c 0,2.76999 -2.22999,4.99998 -4.99998,4.99998 l -15.00004,0 c -2.76999,0 -4.99998,-2.22999 -4.99998,-4.99998 l 0,-15.00004 c 0,-2.76999 2.22999,-4.99998 4.99998,-4.99998 z"
        id="rect4237"
        inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#7a7a7a;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect876"
+       width="25"
+       height="25"
+       x="91.933342"
+       y="917.04034"
+       ry="4.99998" />
   </g>
 </svg>
