@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="view-refresh-symbolic.svg">
+   sodipodi:docname="zoom-out-symbolic.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,19 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2339839"
-     inkscape:cx="55.473336"
-     inkscape:cy="127.99998"
+     inkscape:zoom="3.3125"
+     inkscape:cx="128"
+     inkscape:cy="128"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:document-rotation="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        spacingy="5"
        spacingx="5"
@@ -44,60 +43,6 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="Arrow2Sstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow2Sstart">
-      <path
-         transform="scale(0.3) translate(-2.3,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#0b5b37;stroke-opacity:1;fill:#0b5b37;fill-opacity:1"
-         id="path892" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="Arrow2Mstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mstart">
-      <path
-         transform="scale(0.6) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#0b5b37;stroke-opacity:1;fill:#0b5b37;fill-opacity:1"
-         id="path886" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;"
-       id="Arrow1Send"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send">
-      <path
-         transform="scale(0.2) rotate(180) translate(6,0)"
-         style="fill-rule:evenodd;stroke:#171717;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path877" />
-    </marker>
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect4187"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect4202"
-       is_visible="true" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4198"
-       effect="spiro" />
     <inkscape:path-effect
        is_visible="true"
        id="path-effect4176"
@@ -224,56 +169,58 @@
          style="fill:#ff7b68;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
     <clipPath
-       id="clipPath4607"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4298">
       <circle
-         style="fill:#1ce089;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4609"
+         style="fill:#df241d;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4300"
          cx="128"
          cy="924.36218"
          r="128" />
     </clipPath>
     <clipPath
-       id="clipPath4192"
+       id="clipPath4292"
        clipPathUnits="userSpaceOnUse">
       <circle
-         style="fill:#1ce089;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4194"
-         cx="136"
-         cy="924.36218"
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#df241d;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4294"
+         cx="-920.63922"
+         cy="128.00002"
          r="128" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath1459">
+       id="clipPath4753">
       <circle
-         style="fill:#15a163;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle1461"
-         cx="-325.00351"
-         cy="867.28442"
-         r="128"
-         transform="rotate(-28.455421)" />
-    </clipPath>
-    <clipPath
-       id="clipPath1523"
-       clipPathUnits="userSpaceOnUse">
-      <circle
-         transform="matrix(-0.89649969,0.44304436,0.44304436,0.89649969,0,0)"
-         style="fill:#15a163;fill-opacity:1;stroke:none;stroke-width:6.31773758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle1525"
-         cx="398.79517"
-         cy="808.24945"
-         r="126.83037" />
+         style="fill:#1f9c4a;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4755"
+         cx="-486.26294"
+         cy="798.66675"
+         r="120.95755"
+         transform="matrix(0.77485215,-0.63214251,0.63214251,0.77485215,0,0)" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath1457">
+       id="clipPath4774">
       <circle
-         style="fill:#15a163;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle1459"
-         cx="-71.757812"
-         cy="873.36237"
-         r="128" />
+         style="fill:#1f9c4a;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4776"
+         cx="850.09076"
+         cy="385.71805"
+         r="120.95754"
+         transform="matrix(-0.81688221,0.57680453,0.57680453,0.81688221,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4780">
+      <circle
+         style="fill:#1f9c4a;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4782"
+         cx="850.09076"
+         cy="385.71805"
+         r="120.95754"
+         transform="matrix(-0.81688221,0.57680453,0.57680453,0.81688221,0,0)" />
     </clipPath>
   </defs>
   <metadata
@@ -284,7 +231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -292,24 +239,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-796.36216)">
-    <path
-       style="fill:#15a163;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 127.75781 32.792969 C 162.79003 32.792969 193.49114 51.790704 210.01953 80.089844 L 235.1543 72.037109 L 220.9082 137.57227 L 219.43359 144.35352 L 164.61523 94.636719 L 190 86.503906 C 176.61104 66.441905 153.78494 53.205078 127.75781 53.205078 C 94.057693 53.205078 65.716867 75.392952 56.291016 105.86133 L 36.791016 99.828125 C 48.812841 60.968465 85.083613 32.792969 127.75781 32.792969 z M 37.595703 110.95703 L 87.115234 158.81055 L 63.128906 165.66602 C 76.076529 187.85536 100.10992 202.79297 127.75781 202.79297 C 161.76951 202.79297 190.85181 179.96812 199.96875 149.10742 L 219.54688 154.89062 C 207.86925 194.41917 170.87567 223.20703 127.75781 223.20703 C 90.900401 223.20703 58.830688 202.1784 43.023438 171.41211 L 20.845703 177.75195 L 36.025391 117.2207 L 37.595703 110.95703 z "
-       transform="translate(0,796.36216)"
-       id="path4178" />
-    <g
-       transform="translate(199.75781,50.999835)"
-       id="g1242"
-       style="fill:#fefffe;fill-opacity:1">
-      <g
-         transform="translate(-200,-55)"
-         id="g1078"
-         style="fill:#fefffe;fill-opacity:1" />
-      <g
-         transform="translate(-200,-55)"
-         id="g1122"
-         style="fill:#fefffe;fill-opacity:1" />
-    </g>
-  </g>
+     transform="translate(0,-796.36216)" />
+  <path
+     style="fill:#1f9c4a;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 127.13477 26.777344 C 155.18387 26.538492 182.93491 39.409596 200.62305 63.830078 C 229.64973 103.90472 220.67619 160.02996 180.60156 189.05664 C 179.9955 189.49562 179.38474 189.92408 178.77148 190.3457 L 197.91211 219.05859 L 192.08789 222.94141 L 172.85156 194.08789 C 133.5669 216.82846 82.577938 206.58457 55.378906 169.0332 C 26.352227 128.95857 35.321847 72.837226 75.396484 43.810547 C 91.050639 32.472 109.15457 26.930454 127.13477 26.777344 z M 129.20508 33.744141 C 111.98819 33.484206 94.539551 38.587965 79.503906 49.478516 C 42.493087 76.286024 34.239366 127.91691 61.046875 164.92773 C 87.854384 201.93856 139.48332 210.19423 176.49414 183.38672 C 213.50496 156.57921 221.76064 104.94832 194.95312 67.9375 C 179.03617 45.962326 154.36822 34.124045 129.20508 33.744141 z M 69.666016 98.931641 L 186.33398 98.931641 C 190.02734 98.931641 193 101.90626 193 105.59961 L 193 122.26562 C 193 125.95898 190.02734 128.93164 186.33398 128.93164 L 69.666016 128.93164 C 65.972664 128.93164 63 125.95898 63 122.26562 L 63 105.59961 C 63 101.90626 65.972664 98.931641 69.666016 98.931641 z "
+     id="path4174" />
 </svg>
