@@ -14,8 +14,10 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="battery-caution-symbolic.svg">
+  <defs
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,60 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2304688"
-     inkscape:cx="20.430474"
+     inkscape:zoom="3.3125"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       spacingy="5"
-       spacingx="5"
-       id="grid4136"
-       type="xygrid" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4342">
-      <ellipse
-         style="opacity:1;fill:#a5ffbe;fill-opacity:1;stroke:none;stroke-width:0.45540357;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse4344"
-         cx="130.85103"
-         cy="920.35028"
-         rx="128"
-         ry="127.94993" />
-    </clipPath>
-    <clipPath
-       id="clipPath4490"
-       clipPathUnits="userSpaceOnUse">
-      <ellipse
-         style="opacity:1;fill:#a5ffbe;fill-opacity:1;stroke:none;stroke-width:0.45540357;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse4492"
-         cx="130.82143"
-         cy="920.37988"
-         rx="106.66666"
-         ry="106.62494" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3408">
-      <ellipse
-         style="opacity:1;fill:#0f9d58;fill-opacity:1;stroke:none;stroke-width:0.45540357;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse3410"
-         cx="139.29546"
-         cy="917.20776"
-         rx="111.28613"
-         ry="111.24259" />
-    </clipPath>
-  </defs>
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -90,20 +50,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-796.36216)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(0,-796.36216)">
     <path
-       style="opacity:1;fill:#b60b00;fill-opacity:1;stroke:none;stroke-width:0.45540357;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 128.17773 -0.12695312 A 128 127.94993 0 0 0 0.17773438 127.82227 A 128 127.94993 0 0 0 128.17773 255.77148 A 128 127.94993 0 0 0 256.17773 127.82227 A 128 127.94993 0 0 0 128.17773 -0.12695312 z M 91.947266 33 L 164.05273 33 L 164.05273 55.882812 L 185.84766 55.882812 L 185.84766 223 L 70.152344 223 L 70.152344 55.882812 L 91.947266 55.882812 L 91.947266 33 z M 110.31836 54.671875 L 110.31836 55.882812 L 110.31836 63.724609 L 110.31836 110.95898 L 115.32812 152.01758 L 140.67188 152.01758 L 145.68164 110.95898 L 145.68164 63.724609 L 145.68164 55.882812 L 145.68164 54.671875 L 110.31836 54.671875 z M 110.31836 166.35938 L 110.31836 201.32812 L 145.68164 201.32812 L 145.68164 166.35938 L 110.31836 166.35938 z "
-       id="path4138"
-       transform="translate(0,796.36216)" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4144"
-       cx="85.5"
-       cy="976.86218"
-       r="0.5" />
+       style="fill:#67bdff;fill-opacity:1;stroke-width:3.45435405"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 90.605469 19.333984 L 165.39453 19.333984 L 165.39453 53.201172 L 188 53.201172 L 188 226.53516 L 68 226.53516 L 68 53.201172 L 90.605469 53.201172 L 90.605469 19.333984 z "
+       transform="translate(0,796.36216)"
+       id="path816" />
+    <g
+       aria-label="!"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:222.30665588px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.15784717"
+       id="text818">
+      <path
+         style="stroke-width:1.15784717"
+         d="m 108.73242,852.36216 4.66797,108.00586 h 29.74219 l 4.66797,-108.00586 z m 19.32227,123.31055 c -6.00634,0 -10.89129,1.77245 -14.6543,5.31836 -3.763,3.47354 -5.64453,7.81703 -5.64453,13.02734 0,5.21029 1.88153,9.58689 5.64453,13.13279 3.76301,3.4736 8.64796,5.211 14.6543,5.211 6.00632,0 10.85428,-1.7374 14.54492,-5.211 3.76301,-3.5459 5.64453,-7.9225 5.64453,-13.13279 0,-5.21031 -1.88152,-9.5538 -5.64453,-13.02734 -3.69064,-3.54591 -8.5386,-5.31836 -14.54492,-5.31836 z"
+         id="path824"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
