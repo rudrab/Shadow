@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="im-irc.svg">
   <sodipodi:namedview
      id="base"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="128"
+     inkscape:cx="24.624759"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -375,16 +375,14 @@
            d="m 132.6582,859.76257 -8.4375,33.83789 23.20313,0 8.52539,-33.83789 19.42383,0 -8.52539,33.83789 24.3457,0 0,18.72071 -29.00391,0 -6.06445,24.08203 24.96094,0 0,18.89648 -29.53125,0 -8.4375,33.66211 -19.42383,0 8.4375,-33.66211 -23.20313,0 -8.4375,33.66211 -19.599605,0 8.4375,-33.66211 -24.521484,0 0,-18.89648 28.828125,0 6.152343,-24.08203 -24.873047,0 0,-18.72071 29.707028,0 8.4375,-33.83789 19.59961,0 z m 9.93164,52.5586 -23.20312,0 -6.15234,24.08203 23.20312,0 6.15234,-24.08203 z" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="52.589844"
-       y="988.96179"
-       id="text4231"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4233"
-         x="52.589844"
-         y="988.96179">#</tspan></text>
+    <g
+       aria-label="#"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4231">
+      <path
+         d="m 132.6582,859.76257 -8.4375,33.83789 h 23.20313 l 8.52539,-33.83789 h 19.42383 l -8.52539,33.83789 h 24.3457 v 18.72071 H 162.18945 L 156.125,936.4032 h 24.96094 v 18.89648 h -29.53125 l -8.4375,33.66211 h -19.42383 l 8.4375,-33.66211 h -23.20313 l -8.4375,33.66211 H 80.890625 l 8.4375,-33.66211 H 64.806641 V 936.4032 h 28.828125 l 6.152343,-24.08203 H 74.914062 v -18.72071 h 29.707028 l 8.4375,-33.83789 z m 9.93164,52.5586 h -23.20312 l -6.15234,24.08203 h 23.20312 z"
+         style="font-size:180px;line-height:1.25"
+         id="path912" />
+    </g>
   </g>
 </svg>

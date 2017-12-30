@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="inkscape-symbolic.svg"
+   sodipodi:docname="preferences-system-devices-symbolic.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    version="1.1"
    id="svg2"
@@ -20,7 +20,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1048"
+     inkscape:window-height="1054"
      inkscape:window-width="1920"
      units="px"
      showgrid="true"
@@ -28,7 +28,7 @@
      inkscape:document-units="px"
      inkscape:cy="128"
      inkscape:cx="128"
-     inkscape:zoom="3.296875"
+     inkscape:zoom="3.3359375"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -138,24 +138,94 @@
          r="128" />
     </clipPath>
     <clipPath
-       id="clipPath5089"
+       id="clipPath4771"
        clipPathUnits="userSpaceOnUse">
       <circle
          style="fill:#0f9d58;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
-         id="circle5091"
+         id="circle4773"
          cx="128"
          cy="924.36218"
          r="128" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath5275">
+       id="clipPath4842">
       <circle
          style="fill:#0f9d58;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
-         id="circle5277"
+         id="circle4844"
          cx="128"
          cy="924.36218"
-         r="116.36364" />
+         r="128" />
+    </clipPath>
+    <clipPath
+       id="clipPath4458"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         style="fill:#ff3b38;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle4460"
+         cx="128"
+         cy="924.36218"
+         r="128" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4783">
+      <circle
+         style="fill:#ff3b38;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle4785"
+         cx="128"
+         cy="924.36218"
+         r="128" />
+    </clipPath>
+    <clipPath
+       id="clipPath4789"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         style="fill:#80b4ff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle4791"
+         cx="102.64714"
+         cy="924.36218"
+         r="128" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4721">
+      <circle
+         style="fill:#557ae6;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle4723"
+         cx="128"
+         cy="924.36218"
+         r="128" />
+    </clipPath>
+    <clipPath
+       id="clipPath4491"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         style="fill:#990000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle4493"
+         cx="128"
+         cy="924.36218"
+         r="128" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1102">
+      <circle
+         style="fill:#b40000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle1104"
+         cx="128"
+         cy="924.36218"
+         r="128" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1102-3">
+      <circle
+         style="fill:#b40000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle1104-6"
+         cx="128"
+         cy="924.36218"
+         r="128" />
     </clipPath>
   </defs>
   <metadata
@@ -176,19 +246,9 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
-       style="fill:#0f9d58;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
-       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 126.27539 28 C 132.54195 28.012531 138.86929 30.314503 143.61133 34.867188 L 221.16016 114.13086 C 251.98477 144.95547 187.02204 152.0996 168.22656 163.07617 C 161.68294 169.75345 188.3432 174.21009 185.59766 182.43555 C 180.03976 199.0814 164.91285 188.50477 148.66797 205.11719 C 142.1355 211.79449 161.16528 211.16486 154.63281 217.84766 C 142.30296 226.86956 117.09215 233.15232 115.07617 222.13672 C 112.2471 206.72162 97.137947 213.04839 90.605469 206.37109 C 84.072991 199.69386 103.97779 192.60892 97.445312 185.93164 C 90.901702 179.25438 57.932868 173.0679 51.400391 166.39062 C 44.867911 159.70779 76.438729 154.77883 69.90625 148.10156 C 51.695507 139.08527 9.2143373 142.72738 34.492188 111.42383 L 109.30664 34.867188 C 113.80364 30.264377 120.00883 27.987469 126.27539 28 z M 210.12109 173.2832 C 215.81935 173.42719 221.35746 176.13013 223.22656 181.53906 C 223.22656 188.72312 195.24219 186.23364 195.24219 182.43555 C 196.99956 176.2433 203.66306 173.12001 210.12109 173.2832 z M 80.675781 189.73828 C 84.107658 189.77012 87.307348 190.79576 89.113281 193.19531 C 86.044743 201.19245 75.808793 208.34767 69.181641 202.61719 C 61.616455 196.06469 71.905429 189.65692 80.675781 189.73828 z M 191.73438 190.23633 C 201.06255 192.14094 202.98808 198.81999 201.11133 200.72461 C 192.69094 205.67546 183.19149 197.89933 191.73438 190.23633 z "
+       style="fill:#c42626;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 58.333984 39.332031 L 121.66797 39.332031 L 121.66797 51.998047 L 58.333984 51.998047 L 58.333984 39.332031 z M 45.666016 64.666016 L 58.333984 64.666016 L 121.66797 64.666016 L 134.33398 64.666016 C 141.35141 64.666016 147.00195 70.314611 147.00195 77.332031 L 147.00195 90 L 140.66797 90 L 134.33398 90 C 123.07696 90 113.10261 94.937978 106.15625 102.66602 L 45.666016 102.66602 L 45.666016 115.33398 C 38.648594 115.33398 33 109.68345 33 102.66602 L 33 77.332031 C 33 70.314611 38.648594 64.666016 45.666016 64.666016 z M 134.33203 102.66602 L 197.66602 102.66602 C 211.48174 102.66602 223 114.18428 223 128 L 223 166 C 223 179.81571 211.48174 191.33398 197.66602 191.33398 L 134.33203 191.33398 C 120.51631 191.33398 108.99805 179.81571 108.99805 166 L 108.99805 128 C 108.99805 114.18428 120.51631 102.66602 134.33203 102.66602 z M 58.333984 115.33398 L 98.634766 115.33398 C 97.229513 119.31125 96.333984 123.52962 96.333984 128 L 96.333984 134.33398 L 96.333984 153.33398 L 58.333984 153.33398 L 58.333984 115.33398 z M 134.33203 128 L 134.33203 166 L 197.66602 166 L 197.66602 128 L 134.33203 128 z M 140.66797 204.00195 L 191.33594 204.00195 C 197.66935 204.00195 197.66797 210.33398 197.66797 210.33398 C 197.66797 210.33398 197.66903 216.66797 166.00195 216.66797 C 134.33486 216.66797 134.33398 210.33398 134.33398 210.33398 C 134.33398 204.00058 140.66797 204.00195 140.66797 204.00195 z "
        transform="translate(0,796.36216)"
        id="path4152" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="120"
-       y="927.36218"
-       id="text4914"><tspan
-         sodipodi:role="line"
-         id="tspan4916"
-         x="120"
-         y="927.36218" /></text>
   </g>
 </svg>

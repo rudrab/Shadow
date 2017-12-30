@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="inkscape-symbolic.svg"
+   sodipodi:docname="system-users-symbolic.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    version="1.1"
    id="svg2"
@@ -20,7 +20,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1048"
+     inkscape:window-height="1054"
      inkscape:window-width="1920"
      units="px"
      showgrid="true"
@@ -28,7 +28,7 @@
      inkscape:document-units="px"
      inkscape:cy="128"
      inkscape:cx="128"
-     inkscape:zoom="3.296875"
+     inkscape:zoom="3.3359375"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -43,6 +43,20 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,0 1,0"
+       is_visible="true"
+       id="path-effect4235"
+       effect="skeletal" />
     <clipPath
        id="clipPath5002"
        clipPathUnits="userSpaceOnUse">
@@ -129,33 +143,33 @@
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4235">
+       id="clipPath4480">
       <circle
-         style="fill:#0f9d58;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
-         id="circle4237"
+         style="fill:#df7618;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle4482"
          cx="128"
          cy="924.36218"
          r="128" />
     </clipPath>
     <clipPath
-       id="clipPath5089"
+       id="clipPath4532"
        clipPathUnits="userSpaceOnUse">
       <circle
-         style="fill:#0f9d58;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
-         id="circle5091"
-         cx="128"
-         cy="924.36218"
+         style="fill:#df7618;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle4534"
+         cx="145.46286"
+         cy="927.47681"
          r="128" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath5275">
+       id="clipPath4430">
       <circle
-         style="fill:#0f9d58;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
-         id="circle5277"
+         style="fill:#df7618;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+         id="circle4432"
          cx="128"
          cy="924.36218"
-         r="116.36364" />
+         r="117.19496" />
     </clipPath>
   </defs>
   <metadata
@@ -176,19 +190,9 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
-       style="fill:#0f9d58;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
-       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 126.27539 28 C 132.54195 28.012531 138.86929 30.314503 143.61133 34.867188 L 221.16016 114.13086 C 251.98477 144.95547 187.02204 152.0996 168.22656 163.07617 C 161.68294 169.75345 188.3432 174.21009 185.59766 182.43555 C 180.03976 199.0814 164.91285 188.50477 148.66797 205.11719 C 142.1355 211.79449 161.16528 211.16486 154.63281 217.84766 C 142.30296 226.86956 117.09215 233.15232 115.07617 222.13672 C 112.2471 206.72162 97.137947 213.04839 90.605469 206.37109 C 84.072991 199.69386 103.97779 192.60892 97.445312 185.93164 C 90.901702 179.25438 57.932868 173.0679 51.400391 166.39062 C 44.867911 159.70779 76.438729 154.77883 69.90625 148.10156 C 51.695507 139.08527 9.2143373 142.72738 34.492188 111.42383 L 109.30664 34.867188 C 113.80364 30.264377 120.00883 27.987469 126.27539 28 z M 210.12109 173.2832 C 215.81935 173.42719 221.35746 176.13013 223.22656 181.53906 C 223.22656 188.72312 195.24219 186.23364 195.24219 182.43555 C 196.99956 176.2433 203.66306 173.12001 210.12109 173.2832 z M 80.675781 189.73828 C 84.107658 189.77012 87.307348 190.79576 89.113281 193.19531 C 86.044743 201.19245 75.808793 208.34767 69.181641 202.61719 C 61.616455 196.06469 71.905429 189.65692 80.675781 189.73828 z M 191.73438 190.23633 C 201.06255 192.14094 202.98808 198.81999 201.11133 200.72461 C 192.69094 205.67546 183.19149 197.89933 191.73438 190.23633 z "
-       transform="translate(0,796.36216)"
+       inkscape:connector-curvature="0"
+       style="fill:#df7618;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+       d="m 128,796.36214 a 128,128 0 0 0 -128,128 128,128 0 0 0 128,128.00006 128,128 0 0 0 128,-128.00006 128,128 0 0 0 -128,-128 z M 87.587891,830.94808 A 30.035419,40.95739 0 0 1 117.625,871.90511 30.035419,40.95739 0 0 1 87.587891,912.86409 30.035419,40.95739 0 0 1 57.552734,871.90511 30.035419,40.95739 0 0 1 87.587891,830.94808 Z m 63.873049,38.92187 a 30.035419,40.95739 0 0 1 30.03515,40.95703 30.035419,40.95739 0 0 1 -30.03515,40.959 30.035419,40.95739 0 0 1 -30.03516,-40.959 30.035419,40.95739 0 0 1 30.03516,-40.95703 z m -64.667971,49.83399 c 11.090674,0 21.737781,1.94722 31.255861,5.04297 1.62408,6.77877 4.41273,12.91387 8.14258,17.99997 3.67226,5.0077 8.35663,9.0253 13.68945,11.4571 -4.74406,0.5039 -9.34053,1.3243 -13.74414,2.4042 -39.285079,0.3683 -67.552774,0.2827 -108.13672,-0.3281 1e-6,-14.1936 31.092732,-36.57614 68.792969,-36.57614 z m 63.873051,38.92184 c 37.70025,0 70.38281,22.3826 70.38281,36.5762 -58.47917,0.7637 -88.43525,0.7637 -139.175783,0 10e-7,-14.1936 31.092743,-36.5762 68.792973,-36.5762 z"
        id="path4152" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="120"
-       y="927.36218"
-       id="text4914"><tspan
-         sodipodi:role="line"
-         id="tspan4916"
-         x="120"
-         y="927.36218" /></text>
   </g>
 </svg>
