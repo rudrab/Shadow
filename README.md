@@ -49,7 +49,7 @@ Hope you will like it.
 
 ## Whats New
 **version 4.0**
-  > Ready for gnome 3.28
+  > Ready for gnome 3.28.
   > Support for desktop environment Gnome, Mate, Pantheon and Unity.
   
 **version 3.0**
