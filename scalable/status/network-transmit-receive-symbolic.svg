@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="audio-volume-muted-symbolic.svg">
+   sodipodi:docname="network-transmit-receive-symbolic.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -73,13 +73,43 @@
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4318">
+       id="clipPath4292">
       <circle
-         style="fill:#d64843;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4320"
-         cx="167.5"
-         cy="944.36237"
-         r="11.29411" />
+         style="fill:#ffaa31;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4294"
+         cx="132.27344"
+         cy="904.67468"
+         r="105.41177" />
+    </clipPath>
+    <clipPath
+       id="clipPath4203"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         style="fill:#62b7dc;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4205"
+         cx="128"
+         cy="924.36218"
+         r="128" />
+    </clipPath>
+    <clipPath
+       id="clipPath4290"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="128"
+         cy="924.36218"
+         cx="128"
+         id="circle4292"
+         style="fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1153">
+      <circle
+         style="fill:#f63925;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1155"
+         cx="128"
+         cy="924.36218"
+         r="128" />
     </clipPath>
   </defs>
   <metadata
@@ -90,7 +120,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,14 +130,17 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <path
-       style="fill:#2cdbde;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 128 13 A 115 115 0 0 1 243 128 A 115 115 0 0 1 128 243 A 115 115 0 0 1 13 128 A 115 115 0 0 1 128 13 z "
+       style="fill:#f63925;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 128 28 L 178 92.865234 L 147.52148 92.865234 L 147.52148 163.13477 L 178 163.13477 L 128 228 L 78 163.13477 L 108.47852 163.13477 L 108.47852 92.865234 L 78 92.865234 L 128 28 z "
        transform="translate(0,796.36216)"
-       id="path831" />
-    <path
-       style="fill:#2cdbde;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 62.591797 44.914062 L 44.914062 62.591797 L 53.271484 70.949219 L 53.232422 70.863281 L 53.425781 55.875 L 73.552734 55.875 L 62.591797 44.914062 z M 73.552734 55.875 L 166.68359 149.00586 L 202.76758 68.902344 L 202.75 55.875 L 73.552734 55.875 z M 166.68359 149.00586 L 165.23242 152.22656 L 165.23242 182.91016 L 193.4082 211.08594 L 211.08594 193.4082 L 166.68359 149.00586 z M 165.23242 182.91016 L 53.271484 70.949219 L 90.5625 152.22656 L 90.5625 220.31445 L 165.23242 220.31445 L 165.23242 182.91016 z "
-       transform="translate(0,796.36216)"
-       id="path833" />
+       id="path4145" />
+    <g
+       id="g914"
+       transform="matrix(0.99999998,0,0,1.0810814,36.899097,-74.94856)">
+      <g
+         id="g886"
+         transform="matrix(1.1155608,0,0,1,-6.510666,-10.49999)"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
   </g>
 </svg>

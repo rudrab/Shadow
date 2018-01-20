@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg4147"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="network-wireless-signal-excellent-symbolic.svg">
   <defs
      id="defs4149" />
@@ -25,18 +25,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3632812"
+     inkscape:zoom="3.3125"
      inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       dotted="false"
+       type="xygrid"
+       id="grid869" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4152">
     <rdf:RDF>
@@ -45,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,9 +60,9 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
-       style="fill:#979797;fill-opacity:1;stroke:none;stroke-width:35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 128 25.859375 C 172.22346 25.859375 212.22166 43.976546 238 67.009766 L 238 88.716797 L 214.73242 88.716797 C 190.85802 69.537977 164.1416 57.287109 128 57.287109 C 91.8584 57.287109 65.141978 68.843557 41.267578 88.716797 L 18 88.716797 L 18 66.488281 C 46.729958 41.572181 83.776542 25.859375 128 25.859375 z M 128 73.001953 C 161.418 73.001953 190.94003 85.212678 206.57227 104.42969 L 206.57227 120.14453 L 175.14258 120.14453 C 162.8757 110.61351 147.50348 104.42969 128 104.42969 C 108.49652 104.42969 93.252539 110.61351 80.857422 120.14453 L 49.427734 120.14453 L 49.427734 104.42969 C 64.830557 84.610502 93.9528 73.001953 128 73.001953 z M 128 120.14453 C 147.75804 120.14453 161.9913 125.29844 175.14258 135.85938 L 175.14258 151.57227 L 133.89258 151.57227 L 128 151.57227 L 80.857422 151.57227 L 80.857422 135.85938 C 93.18198 125.04246 108.24196 120.14453 128 120.14453 z M 128 167.2832 A 31.428562 31.428562 0 0 1 159.42773 198.71289 A 31.428562 31.428562 0 0 1 128 230.14062 A 31.428562 31.428562 0 0 1 96.572266 198.71289 A 31.428562 31.428562 0 0 1 128 167.2832 z "
+       style="opacity:1;fill:#979797;fill-opacity:1;stroke:none;stroke-width:12.80000019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 128 33 A 134.35018 190 0 0 1 223 88.650391 L 128 223 L 33 88.650391 A 134.35018 190 0 0 1 128 33 z "
        transform="translate(0,796.36216)"
-       id="path4695" />
+       id="path814" />
   </g>
 </svg>
