@@ -24,16 +24,20 @@ As of version 4, it contains 980+ apps icon , 2200+ icons in total and counting.
 
 Installation in straight forward.
 > From [Github](https://github.com/rudrab/Shadow):
-* If you are not using `Shadow` already:   
+* If you are not using `Shadow` already:<br>
     `mkdir -p ~/.icons`<br>
+    `cd ~/.icons`<br>
     `git clone https://github.com/rudrab/Shadow.git`
-* From the next time:    
+* From the next time:
     `cd ~/.icons/Shadow`<br>
     `git pull`
 
 
 > Download from [gnome-look.org](https://www.gnome-look.org/content/show.php/Shadow?content=170398)
-*  Untar the file in `~/.icons/Shadow` folder.
+*  `cd ~/.icons`<br>
+   `mkdir -p shadow`<br>
+   `cd shadow`<br>
+   `tar -Jxvf <Your download path>/shadow<version>.tar.xz`
 
 Activate the theme using `tweak-tool` or from command line:
       
