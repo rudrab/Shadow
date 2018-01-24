@@ -1,5 +1,5 @@
-## Introduction
 
+## Introduction
 Change the way you look at your desktop. Get carefully crafted, bright and clean icon-theme for
 Linux.
 
@@ -23,15 +23,23 @@ As of version 2.7, it contains 800+ apps icon , 800+ system icons and counting.
 ## Installation
 
 Installation in straight forward.
-> From Github:
-* `git clone` the content to `~/.icons` folder.
+> From [Github](https://github.com/rudrab/Shadow):
+*  Follow the basic `git` rules:
+   * If you are not using `Shadow` already:   
+    `mkdir -p ~/.icons`<br>
+    `git clone https://github.com/rudrab/Shadow.git`
 
-> From [gnome-look.org](https://www.gnome-look.org/content/show.php/Shadow?content=170398)
-* Download and untar the file in `~/.icons` folder.
+   * From the next time:    
+    `cd ~/.icons/Shadow`<br>
+    `git pull`
+
+
+> Download from [gnome-look.org](https://www.gnome-look.org/content/show.php/Shadow?content=170398)
+*  Untar the file in `~/.icons/Shadow` folder.
 
 Activate the theme using `tweak-tool` or from command line:
       
-      gsettings set org.gnome.desktop.interface icon-theme "shadow"
+      gsettings set org.gnome.desktop.interface icon-theme "Shadow"
 
 
 #### Optional: Icon themes
