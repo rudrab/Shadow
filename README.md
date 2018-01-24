@@ -18,7 +18,7 @@ Linux.
 
 *Shadow* is a flat icon-theme for gnome 3.10+. The icons have colourful circular base with long shadow.
 
-As of version 2.7, it contains 800+ apps icon , 800+ system icons and counting.
+As of version 4, it contains 980+ apps icon , 2200+ icons in total and counting.
 
 ## Installation
 
@@ -44,18 +44,22 @@ Activate the theme using `tweak-tool` or from command line:
 
 #### Optional: Icon themes
 
-*Version 3* includes many new icons. Plus 3 gem themed *places* i.e. folder icons based on ruby,
-emerald and sapphire, beside the old torquise(which is still default) and the square icons. 
+*Version 3* includes many new icons. Plus 5 gem themed *places* i.e. folder icons based on ruby,
+emerald, garnet, sapphire(default) and torquise beside a oldish square icons. 
 
 There is a python script named `changecolor.py` in the parent folder. Just run this as
 
-    python changecolor.py
+    python3 changecolor.py
 
-and choose from numbers shown to enable the theme.
+and choose your desktop environment and colour theme.
 
 Hope you will like it.
 
 ## Whats New
+**version 4.0**
+  > * Ready for gnome 3.28.
+  > * Support for desktop environment Gnome, Mate, Pantheon and Unity.
+  
 **version 3.0**
   > 3 new colors for folders added. Users can choose from<br/> 
   > ruby, emerald and sapphire colored themes for folder.
