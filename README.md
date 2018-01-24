@@ -28,7 +28,6 @@ Installation in straight forward.
    * If you are not using `Shadow` already:   
     `mkdir -p ~/.icons`<br>
     `git clone https://github.com/rudrab/Shadow.git`
-
    * From the next time:    
     `cd ~/.icons/Shadow`<br>
     `git pull`
