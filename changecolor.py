@@ -9,6 +9,7 @@ def denv():
   print("2: Mate")
   print("3: Pantheon")
   print("4: Unity")
+  print("5: KDE "+ '\x1b[1;48;2;185;0;0m'+"(Only those who are using special KDE branch)\x1b[0m")
   name = int(input("Enter 1/2/3 etc to choose your de:"))
   de = "gnome"
   if name == 1:
@@ -19,6 +20,8 @@ def denv():
     de = "pantheon"
   elif name == 4:
     de = "unity"
+  elif name == 5:
+    de = "kde"
   else:
     print('\x1b[1;48;2;205;0;0m' + "Though not officially supported," +
           " you can use it\nfor other de like KDE. Many KDE icons are" +
@@ -69,15 +72,18 @@ def color(den):
   shutil.copy(foldernew, "./actions")
   os.chdir(schemename)
   os.unlink("folder.svg")
+  os.unlink("folder-symbolic.svg")
   fname = "folder_" + den + ".svg"
+  fname2 = "folder-symbolic_" + den + ".svg"
   print(den)
   print(os.getcwd())
   os.symlink(fname, "folder.svg")
+  os.symlink(fname2, "folder-symbolic.svg")
 
 
-print('\x1b[1;48;2;185;0;0m' + "Carefulness assumed.\n" +
-      "i.e. You may face some weird icon if you choose " +
-      "MATE\nwhen you don't have MATE icon or MINT installed!" + '\x1b[0m')
+print('\x1b[1;48;2;185;0;0m' + "CAREFULNESS ASSUMED!\n" +
+      'i.e. You may face some weird icon if you choose \n' +
+      'MATE when you dont have MATE icon or MINT installed!' + '\x1b[0m')
 
 den = denv()
 color(den)
