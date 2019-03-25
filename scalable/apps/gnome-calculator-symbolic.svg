@@ -14,8 +14,8 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92+devel unknown"
-   sodipodi:docname="gnome-calculator-symbolic.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="accessories-calculator-symbolic.svg">
   <sodipodi:namedview
      showguides="false"
      id="base"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.3340048"
-     inkscape:cx="128"
+     inkscape:cx="35.455203"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -193,31 +193,8 @@
      inkscape:label="Layer 1">
     <path
        inkscape:connector-curvature="0"
-       id="path4913"
-       d="M 154.47438,968.80998 101.03985,1048.476 0.4857685,1048.9618 0,842.0244 l 33.032258,-2.42884 45.176471,83.55218 21.373814,35.4611 26.717267,13.11575 z"
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <g
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="text4588" />
-    <g
-       id="text4592"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <g
-       transform="scale(0.8390694,1.1917965)"
-       style="font-style:normal;font-weight:normal;font-size:116.48134613px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="text4596" />
-    <g
-       aria-label="+"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.8450346px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="text4276">
-      <g
-         id="path922"
-         style="opacity:1" />
-    </g>
-    <path
-       style="stroke:none;stroke-width:19.91282082;fill:#dc6d7d;fill-opacity:1"
-       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 166 31 L 196 31 L 196 56 L 221 56 L 221 86 L 196 86 L 196 111 L 166 111 L 166 86 L 141 86 L 141 56 L 166 56 L 166 31 z M 32 56 L 112 56 L 112 86 L 32 86 L 32 56 z M 55 131 L 71.4375 149.83398 L 90.273438 133.39648 L 110 156 L 91.166016 172.4375 L 107.60352 191.27344 L 85 211 L 68.5625 192.16602 L 49.726562 208.60352 L 30 186 L 48.833984 169.5625 L 32.396484 150.72656 L 55 131 z M 141 133 L 221 133 L 221 163 L 141 163 L 141 133 z M 141 179 L 221 179 L 221 209 L 141 209 L 141 179 z "
-       transform="translate(0,796.36216)"
+       style="fill:#dc6d7d;fill-opacity:1;stroke:none;stroke-width:19.91282082"
+       d="m 128,796.36214 a 128,128 0 0 0 -128,128 128,128 0 0 0 128,128.00006 128,128 0 0 0 128,-128.00006 128,128 0 0 0 -128,-128 z m 38,31 h 30 v 25 h 25 v 30 h -25 v 25 h -30 v -25 h -25 v -30 h 25 z m -134,25 h 80 v 30 H 32 Z m 23,75 16.4375,18.83398 18.835938,-16.4375 L 110,952.36214 91.166016,968.79964 107.60352,987.63558 85,1007.3622 68.5625,988.52816 49.726562,1004.9657 30,982.36214 48.833984,965.92464 32.396484,947.0887 Z m 86,2 h 80 v 30 h -80 z m 0,46 h 80 v 30.00006 h -80 z"
        id="path4299" />
   </g>
 </svg>
