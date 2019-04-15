@@ -58,6 +58,10 @@ and choose your desktop environment and colour theme.
 Hope you will like it.
 
 ## Whats New
+**Version 5.0**
+  > * Ready for gnome 3.32
+  > * Current release contains around ~1200 app icons. 
+
 **version 4.0**
   > * Ready for gnome 3.28.
   > * Support for desktop environment Gnome, Mate, Pantheon and Unity.
