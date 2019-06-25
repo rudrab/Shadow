@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="mail-mark-junk.svg">
   <defs
      id="defs4">
@@ -46,19 +46,6 @@
          style="opacity:1;fill:#fff168;fill-opacity:1;stroke:none;stroke-width:52.82038116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4920"
-       x="-0.05582051"
-       width="1.111641"
-       y="-0.12942532"
-       height="1.2588506">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.9775638"
-         id="feGaussianBlur4922" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -67,15 +54,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0507812"
-     inkscape:cx="88.990469"
-     inkscape:cy="127.02476"
+     inkscape:zoom="3.3046865"
+     inkscape:cx="62.638278"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -102,17 +89,30 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36216)">
-    <path
-       style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:52.82038116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 128 0 A 128 128 0 0 0 40.347656 34.837891 L 127.33594 122.35156 L 218.0293 37.091797 A 128 128 0 0 0 128 0 z M 23.730469 53.921875 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 234.1582 56.568359 L 138.21484 146.76758 C 137.7341 147.21953 137.22002 147.61023 136.69336 147.97266 C 136.43985 148.27644 136.17511 148.57466 135.88867 148.85938 C 130.93004 153.78814 122.96979 153.76332 118.04102 148.80469 L 23.730469 53.921875 z "
-       transform="translate(0,796.36216)"
-       id="path4135" />
-    <path
-       transform="translate(0.16190221,0.0476238)"
-       style="fill:#b61313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4920)"
-       d="m -25,1027.3622 150,-100.00004 150,100.00004 -105,25 -98.807617,4.3885 z"
-       id="path4143"
-       inkscape:connector-curvature="0"
-       clip-path="url(#clipPath4147)" />
+    <g
+       id="g841"
+       transform="translate(186.69336,11.972597)">
+      <circle
+         style="opacity:1;fill:#b61313;fill-opacity:1;stroke:none;stroke-width:171.73001099;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path841"
+         cx="-58.693359"
+         cy="912.38953"
+         r="128" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:52.82038116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -162.96289,838.31138 a 128,128 0 0 0 -23.73047,74.07812 128,128 0 0 0 128,128.0001 128,128 0 0 0 128,-128.0001 128,128 0 0 0 -21.8418,-71.43164 l -95.94336,90.19922 c -0.48074,0.45195 -0.99482,0.84265 -1.52148,1.20508 -0.25351,0.30378 -0.51825,0.602 -0.80469,0.88672 -4.95863,4.92878 -12.91888,4.90398 -17.84765,-0.0547 z"
+         id="path4135-3" />
+    </g>
+    <g
+       aria-label="!"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:233.19491577px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.21455681"
+       id="text827">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.21455681"
+         d="M 107.50391 43 L 107.50391 108.24414 L 113.31055 155.83984 L 142.68945 155.83984 L 148.49609 108.24414 L 148.49609 43 L 107.50391 43 z M 107.50391 172.46484 L 107.50391 213 L 148.49609 213 L 148.49609 172.46484 L 107.50391 172.46484 z "
+         transform="translate(0,796.36216)"
+         id="path824" />
+    </g>
   </g>
 </svg>
